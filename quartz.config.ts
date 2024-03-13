@@ -1,4 +1,5 @@
 import { QuartzConfig } from "./quartz/cfg"
+import { ImageTitle } from "./quartz/components"
 import * as Plugin from "./quartz/plugins"
 
 /**
@@ -8,43 +9,64 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Ethisches Marketing Jetzt",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    locale: "de-DE",
+    baseUrl: "ethischesmarketing.jetzt",
+    ignorePatterns: ["private", "templates", ".obsidian", "!(PublicMedia)**/!(*.md)", "!(*.md)"],
+    defaultDateType: "modified",
     theme: {
-      cdnCaching: true,
+      // set to false, this fetches specified fonts at build instead of downoading them from Google (CDN caching) for every user: 
+      cdnCaching: false,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        // header: "Roboto Mono",
+        header: "Roboto Mono",
+        // body: "Roboto Mono",
+        body: "Roboto Regular 400",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          // BG, FS white
+          light: "#faf8ff",
+          // borders, search field: FS lilac 25%
+          lightgray: "#E3D1FF",
+          // heavier borders, graph links, FS  purple drizzle
+          gray: "#660eff",
+          // body text, FS deep purple
+          darkgray: "#25215a",
+          // header text & icons, FS deep purple
+          dark: "#25215a",
+          // links, FS purple rain
+          secondary: "#4500bd",
+          // hover states & visited graph nodes, FS hc p!nk
+          tertiary: "#B81B8B",
+          // highlight: "rgba(143, 159, 169, 0.15)",
+          // internal link background, highlighted text, highlighted lines of code, FS magnolia
+          highlight: "#faf8ff",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          // BG, FS deeper purple 125%
+          light: "#1C1943",
+          // borders, search field: FS purple rain
+          lightgray: "#4500bd",
+          // heavier borders, graph links, FS cool mint
+          gray: "#d7fff2",
+          // body text, FS white lies
+          darkgray: "#FAF8FF",
+          // header text & icons, FS white lies
+          dark: "#FAF8FF",
+          // links, FS green light
+          secondary: "#5dfdcb",
+          // hover states & visited graph nodes, FS coldplay yellow
+          tertiary: "#fcf751",
+          // internal link background, highlighted text, highlighted lines of code, FS purple rain
+          // highlight: "rgba(143, 159, 169, 0.15)",
+          highlight: "#1C1943",
         },
       },
     },
