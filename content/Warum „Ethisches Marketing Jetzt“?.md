@@ -1,7 +1,7 @@
 ---
 title: Warum „Ethisches Marketing Jetzt“?
 draft: false
-enableToc: false
+enableToc: true
 tags: 
 description: Wer heute ethisches Marketing nicht nutzt, riskiert nicht nur die Performanz seiner Werbekampagnen. Für manche steht die Zukunft des Unternehmens auf dem Spiel.
 date: 2024-03-11
