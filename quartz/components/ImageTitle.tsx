@@ -5,7 +5,7 @@ function ImageTitle({ displayClass }: QuartzComponentProps) {
   return (
 <div class={classNames(displayClass, "img-title")}>
   <a href={"/"}>
-    <img src="/static/Ethisches Marketing Jetzt – Startseite.svg" />
+    <img src="https://from-scratch.net/wp-content/uploads/2024/03/Ethisches-Marketing-Jetzt-–-Startseite.svg" />
   </a>
 </div>
 )
