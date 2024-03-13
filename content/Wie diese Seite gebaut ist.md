@@ -1,7 +1,7 @@
 ---
 title: Wie diese Seite gebaut ist
 draft: false
-enableToc: false
+enableToc: true
 tags: 
 description: „Ethisches Marketing Jetzt“ basiert auf der Philosophie des „digitalen Gartens“. Hier veröffentlichen wir mit dem Open-Source-Programm Quartz unsere Notizen direkt aus Obsidian heraus.
 date: 2024-03-11

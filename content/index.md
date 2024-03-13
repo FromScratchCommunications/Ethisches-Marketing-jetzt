@@ -30,7 +30,7 @@ Damit ihr euren Weg bahnen könnt. Und eurer Branche mit gutem Beispiel vorangeh
 
 ### Kapitel 2 (in Arbeit)
 
-- In ==„Respekt ist unsere Aufgabe“== geht es um die Beziehung zu eurem Publikum.
+- In **„Respekt ist unsere Aufgabe“** geht es um die Beziehung zu eurem Publikum.
 	- Definiert, wie ihr eure Zielgruppe, Leads und Kund_innen behandeln wollt. 
 	- Versteht die Menschen, für die ihr Marketing erstellt. 
 	- Erhöht die Barrierefreiheit eures Unternehmensauftritts. 
@@ -38,14 +38,14 @@ Damit ihr euren Weg bahnen könnt. Und eurer Branche mit gutem Beispiel vorangeh
 
 ### Kapitel 3 (in Arbeit)
 
-- ==„Wollt ihr das totale Marketing?“ – Werbung, Content, Aufmerksamkeits-Ökonomie== bettet euer Handeln in die Gesellschaft ein.
+- **„Wollt ihr das totale Marketing?“ – Werbung, Content, Aufmerksamkeits-Ökonomie** bettet euer Handeln in die Gesellschaft ein.
 	- Analysiert, welche aufs Marketing bezogenen Daten ihr als Unternehmen speichert – und welche ihr tatsächlich nutzt.
 	- Bewertet den Einsatz von maschinellem Lernen bzw. Künstlicher Intelligenz im Marketing. 
 	- Etabliert datenschutzfreundliches Marketing an den praktischen Beispielen SEO und CRO.
 
 ### Kapitel 4 (in Arbeit)
 
-- ==„Wir müssen bis morgen reichen“ – Marketing für eine enkeltaugliche Welt== widmet sich zum Abschluss dem Vermächtnis eures Unternehmens.
+- **„Wir müssen bis morgen reichen“ – Marketing für eine enkeltaugliche Welt** widmet sich zum Abschluss dem Vermächtnis eures Unternehmens.
 	- Reduziert ganz alltagspraktisch den ökologischen Fußabdruck eures Online-Marketings. 
 	- Vermeidet schmutzige Tricks wie [[Greenwashing]] und FUD.
 	- Bringt Conversion-Optimierung und Nachhaltigkeit ins Gleichgewicht. 
@@ -55,8 +55,8 @@ Damit ihr euren Weg bahnen könnt. Und eurer Branche mit gutem Beispiel vorangeh
 ### Außerdem ...
 
 - Damit ihr leichter ins Tun kommt, findet ihr zu jedem Kapitel eine ==Toolbox== (in Arbeit) mit vielen nützlichen Empfehlungen. Von Apps bis Software, von Pledges bis zu Weiterbildungsangeboten unterstützen euch kostenfreie und zahlungspflichtige Tools bei der Umsetzung.
-- Das ==Ethische Marketing-Bingo== (in Arbeit) konzentriert sich auf die 9 wesentlichen Schritte, die euer Marketing auf Kurs bringen.
-- Zusätzlich gibt es ein ==Glossar==, damit du immer weißt, was wir meinen, wenn wir von [[Vision]] oder [[Greenwashing]] sprechen.
+- Das **Ethische Marketing-Bingo** (in Arbeit) konzentriert sich auf die 9 wesentlichen Schritte, die euer Marketing auf Kurs bringen.
+- Zusätzlich gibt es ein **Glossar**, damit du immer weißt, was wir meinen, wenn wir von [[Vision]] oder [[Greenwashing]] sprechen.
 
 Bevor wir einsteigen, noch ein wichtiger Hinweis:
 
