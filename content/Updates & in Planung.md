@@ -65,6 +65,7 @@ Ethisches Marketing Bingo
 - [ ] Schöneres Callout-Design
 - [ ] Seiten-Sortierung durch bessere Seitentitel optimieren
 - [ ] Effizienteres Browser-Caching für statische Dateien
+- [ ] Dafür sorgen, dass die WebsiteCarbon Badge zuverlässig und korrekt angezeigt wird
 - [ ] Dark Mode für WebsiteCarbon Badge im Footer einrichten
 
 Stand: März 2024
