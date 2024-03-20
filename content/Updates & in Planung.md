@@ -56,7 +56,6 @@ Ethisches Marketing Bingo
 
 - [x] Übersetzung von Datum und Lesezeit ins Deutsche
 - [x] „Zubehör“-Ordner im Explorer verbergen
-- [x] Explorer-Navigation auch bei Mobilansicht und kleineren Laptop-Bildschirmen bis 13 Zoll anzeigen
 - [x] Logo zum Seitentitel hinzufügen bzw. Seitentitel verbergen und stattdessen über Logo repräsentieren
 - [x] Verbreiterte linke Spalte bei Desktop-Ansicht
 - [x] Optimierte Darstellung von Fettdruck (bold type)
@@ -67,5 +66,6 @@ Ethisches Marketing Bingo
 - [ ] Effizienteres Browser-Caching für statische Dateien
 - [ ] Dafür sorgen, dass die WebsiteCarbon Badge zuverlässig und korrekt angezeigt wird
 - [ ] Dark Mode für WebsiteCarbon Badge im Footer einrichten
+- [ ] Explorer-Navigation auch bei Mobilansicht und kleineren Laptop-Bildschirmen bis 13 Zoll anzeigen
 
 Stand: März 2024
