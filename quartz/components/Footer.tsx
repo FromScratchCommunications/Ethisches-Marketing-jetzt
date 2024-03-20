@@ -27,6 +27,10 @@ export default ((opts?: Options) => {
         <p>
         Wir gendern mit Unterstrich, weil diese Seite in Markdown geschrieben ist – und Sternchen würden hier alles kursiv setzen.
         </p>
+        <p>
+        <div id="wcb" class="carbonbadge"></div>
+<script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
+</p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>

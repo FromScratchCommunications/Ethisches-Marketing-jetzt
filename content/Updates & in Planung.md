@@ -64,5 +64,7 @@ Ethisches Marketing Bingo
 - [ ] Einbinden von Unicode-Symbolen für Creative Commons
 - [ ] Schöneres Callout-Design
 - [ ] Seiten-Sortierung durch bessere Seitentitel optimieren
+- [ ] Effizienteres Browser-Caching für statische Dateien
+- [ ] Dark Mode für WebsiteCarbon Badge im Footer einrichten
 
 Stand: März 2024
