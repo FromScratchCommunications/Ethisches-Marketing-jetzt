@@ -51,10 +51,10 @@ export default {
       searchBarPlaceholder: "Suche nach etwas",
     },
     tableOfContents: {
-      title: "Inhaltsverzeichnis",
+      title: "Auf dieser Seite",
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} Minuten Lesezeit`,
+      readingTime: ({ minutes }) => `${minutes} Min Lesezeit`,
     },
   },
   pages: {

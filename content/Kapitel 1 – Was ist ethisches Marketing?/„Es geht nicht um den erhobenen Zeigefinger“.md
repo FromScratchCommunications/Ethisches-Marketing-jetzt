@@ -1,24 +1,24 @@
 ---
 title: 2. „Es geht nicht um den erhobenen Zeigefinger“
 draft: false
-enableToc: false
+enableToc: true
 tags: 
 description: Woran machen wir eigentlich fest, ob Marketing ethisch ist? Dazu haben wir Dr. Katharina Bauer und PD Dr. phil. habil. Dr. theol. Michael Rasche interviewt.
 date: 2024-03-11
 ---
 ## Philosophische Grundlagen für dein Nachdenken über ethisches Marketing
 
-Woran machen wir eigentlich fest, ob Marketing ethisch ist? 
+Woran machen wir eigentlich fest, ob [[Marketing]] ethisch ist? 
 Um dieser Frage auf den Grund zu gehen, haben wir zwei Personen interviewt, die sich beruflich mit Ethik und Moral beschäftigen:
 
-- ==Dr. Katharina Bauer== ist [Professorin für praktische Philosophie an der Erasmus-Universität Rotterdam](https://www.eur.nl/en/people/katharina-bauer). [Folge Katharina auf ResearchGate](https://www.researchgate.net/profile/Katharina-Bauer-15)
+- **Dr. Katharina Bauer** ist [Professorin für praktische Philosophie an der Erasmus-Universität Rotterdam](https://www.eur.nl/en/people/katharina-bauer). [Folge Katharina auf ResearchGate](https://www.researchgate.net/profile/Katharina-Bauer-15).
 
-- ==PD Dr. phil. habil. Dr. theol. Michael Rasche== arbeitet als [Unternehmens- und Organisationsberater](https://michaelrasche.eu/) und als [Privatdozent für Philosophie an der KU Eichstätt Ingolstadt](https://www.ku.de/ppf/philosophie/lehrstuhl-fuer-philosophie/team/lehrbeauftragte/pd-dr-dr-michael-rasche).
+- **PD Dr. phil. habil. Dr. theol. Michael Rasche** arbeitet als [Unternehmens- und Organisationsberater](https://michaelrasche.eu/) und als [Privatdozent für Philosophie an der KU Eichstätt Ingolstadt](https://www.ku.de/ppf/philosophie/lehrstuhl-fuer-philosophie/team/lehrbeauftragte/pd-dr-dr-michael-rasche).
 
 Damit wir uns im Rest des Leitfadens nicht im Begriffswirrwarr verlieren, definieren wir zunächst einige wiederkehrende Ausdrücke. Mit Katharinas und Michaels Reflexionsfragen kommst du deinen eigenen Werten auf die Spur. Und sie liefern dir einen Fragenkatalog, mit dem ihr als Team die Ethik eures Unternehmens untersuchen könnt.
 
 Kurzum, die ideale Grundlage für deine Arbeit.
-### Es geistern ja eine Menge ähnlicher Begriffe herum: Ethik, Ethos, Moral, Integrität. Bedeuten die alle dasselbe?
+### – Es geistern ja eine Menge ähnlicher Begriffe herum: Ethik, Ethos, Moral, Integrität. Bedeuten die alle dasselbe?
 
 #### Katharina Bauer:
 
@@ -26,8 +26,8 @@ Mit dieser Frage beginne ich jedes Jahr meine Einführungs-Vorlesungen in die Mo
 
 Eine Unterscheidung aus dem englischsprachigen Raum wird aber oft als Standard angenommen:
 
-- ==Ethik== ist ein System von Normen und Regeln, das uns eine Gesellschaft als System vorgibt.
-- ==Moral== ist die eigene moralische Überzeugung, der eigene moralische Kompass.
+- **Ethik** ist ein System von Normen und Regeln, das uns eine Gesellschaft als System vorgibt.
+- **Moral** ist die eigene moralische Überzeugung, der eigene moralische Kompass.
 
 In dieser Definition können Ethik und Moral natürlich auch in Spannung zueinander stehen. Zu untersuchen, wie beide interagieren, ist eine interessante Aufgabe.
 
@@ -41,7 +41,7 @@ Eine, die ich sehr überzeugend finde, kommt von dem französischen Philosophen 
 
 Wieder andere Philosoph_innen lehnen es komplett ab, ein Moralsystem oder eine Moraltheorie zu konstruieren. Sie sagen, das funktioniert nie, weil das Leben viel zu kompliziert ist. All die ethischen Entscheidungen, mit denen wir konfrontiert sind, reiben sich an der Theorie.
 
-> Ich finde aber gerade die Reibung spannend. Als Philosophin will ich nicht aufgeben, trotzdem Theorien zu durchdenken, zu entwickeln und zu schauen, wo sie an ihre Grenzen stoßen.
+> [!quote] Ich finde aber gerade die Reibung spannend. Als Philosophin will ich nicht aufgeben, trotzdem Theorien zu durchdenken, zu entwickeln und zu schauen, wo sie an ihre Grenzen stoßen.
 
 #### Michael Rasche:
 
@@ -66,19 +66,19 @@ Zum Beispiel denken viele, wenn das Stichwort „Ethik“ fällt, dass jetzt der
 
 Das ist verdammt schwierig auseinanderzuhalten, weil historisch und kulturell verschiedene Terminologien existieren. Zwischen den Kulturen und innerhalb der Kulturen. Die angelsächsische Philosophietradition unterscheidet sich oft stark von der kontinentaleuropäischen, zum Beispiel.
 
-**Wichtig ist vor allen Dingen das Bewusstsein, dass diese Begriffe nicht so klar sind, wenn man in diese Debatten einsteigt. Gerade auch in der Öffentlichkeit. Ich glaube, das ist noch wichtiger, als für sich eine klare Definition zu haben.**
+> [!quote] Wichtig ist vor allen Dingen das Bewusstsein, dass diese Begriffe nicht so klar sind, wenn man in diese Debatten einsteigt. Gerade auch in der Öffentlichkeit. Ich glaube, das ist noch wichtiger, als für sich eine klare Definition zu haben.
 
 Wenn man miteinander spricht, muss man zuerst klären: Was verstehst du unter diesem Begriff und worum geht es dir dabei?
 
 > [!question]- **Zum Weiterdenken**
 > **Reflektiere über dein eigenes Verständnis, bevor du mit anderen im Unternehmen das Gespräch suchst.**
-> - Welche Befürchtungen verbindest du mit dem Thema? Kommt dir die Sorge um den erhobenen Zeigefinger bekannt vor?
+> - Welche Befürchtungen verbindest du mit dem Thema „ethisches Marketing“? Kommt dir die Sorge um den erhobenen Zeigefinger bekannt vor?
 > - Welche der genannten Definitionen von Ethik und Moral gefällt dir, welche nicht? Woran liegt das?
 > - Notiere dir stichpunktartig, was für dich zu einem gelingenden Leben gehört. Was kann dein Unternehmen dazu beitragen?
 
 Zu der Unklarheit bei diesen Begriffen kommt ein weiteres großes Feld.
 
-In jeder Organisation, in Unternehmen, aber auch gesamtgesellschaftlich bestehen unterschiedliche ==ethische Mechanismen==. Ethische Mechanismen bestimmen, wie jemand etwas beurteilt. Während der COVID-19-Pandemie haben wir das bei etlichen Entscheidungen erlebt. Viele Menschen haben sich gefragt: „Wie kommt die Person denn überhaupt zu diesem ethischen Urteil?“
+In jeder Organisation, in Unternehmen, aber auch gesamtgesellschaftlich bestehen unterschiedliche **ethische Mechanismen**. Ethische Mechanismen bestimmen, wie jemand etwas beurteilt. Während der COVID-19-Pandemie haben wir das bei etlichen Entscheidungen erlebt. Viele Menschen haben sich gefragt: „Wie kommt die Person denn überhaupt zu diesem ethischen Urteil?“
 
 Da gibt es große Unterschiede, und auch da gilt: Man muss erst mal wissen, dass es da Unterschiede gibt. Sonst beschimpft man sich nur. Und versteht überhaupt nicht, dass der oder die andere da einen anderen ethischen Mechanismus hat, um bestimmte Situationen zu bewerten.
 
@@ -86,11 +86,11 @@ Da gibt es große Unterschiede, und auch da gilt: Man muss erst mal wissen, dass
 
 Dafür sind Philosoph_innen da, um alle hinreichend zu verwirren (lacht).
 
-Vielleicht noch eine Ergänzung dazu, weil ihr auch nach dem Begriff ==Ethos== gefragt habt. Ethos leitet sich interessanterweise auch vom Begriff „Gewohnheit“ her.
+Vielleicht noch eine Ergänzung dazu, weil ihr auch nach dem Begriff **Ethos** gefragt habt. Ethos leitet sich interessanterweise auch vom Begriff „Gewohnheit“ her.
 
 Das spiegelt sich darin, dass wir bestimmte Urteilsgewohnheiten haben: Wir sind daran gewöhnt, Dinge auf eine bestimmte Art zu beurteilen. So sind wir geprägt, so denkt man darüber. Das findet man richtig oder falsch, ohne das Ganze zu hinterfragen und zu den eigenen Gewohnheiten auch ein bisschen Distanz einzunehmen. Darin besteht die Herausforderung, aber auch die Chance: sich gemeinsam darüber auseinanderzusetzen, wie man Dinge sieht.
 
-### Was bedeutet „ethisch“ im unternehmerischen Kontext?
+### – Was bedeutet „ethisch“ im unternehmerischen Kontext?
 
 #### Katharina Bauer:
 
@@ -111,7 +111,7 @@ In der Ethik geht es ja darum, unser Handeln miteinander so zu koordinieren, das
 
 Verschiedene Felder sind für die Ethik eines Unternehmens wichtig.
 
-In erster Linie sind das die ==Mitarbeitenden==. Wie gehe ich mit ihnen um? 
+In erster Linie sind das die **Mitarbeitenden**. Wie gehe ich mit ihnen um? 
 
 Dabei ist eine Frage ganz zentral, an der man schön ablesen kann, wie ethisch ein Unternehmen ist: 
 
@@ -121,21 +121,21 @@ Dabei ist eine Frage ganz zentral, an der man schön ablesen kann, wie ethisch e
 
 Daran kann man schon sehr viel ablesen. Daran entscheidet sich die Ethik eines Unternehmens.
 
-Außerdem stellt sich die Frage des ==Produkts==: Wie ethisch ist das Produkt nach gesellschaftlichen, persönlichen oder auch interkulturellen Kriterien?
+Außerdem stellt sich die Frage des **Produkts**: Wie ethisch ist das Produkt nach gesellschaftlichen, persönlichen oder auch interkulturellen Kriterien?
 
-Eng damit verbunden ist natürlich das Thema ==Marketing==. Auch hier gibt es ethische Kriterien, die man reißen oder erfüllen kann.
+Eng damit verbunden ist natürlich das Thema **[[Marketing]]**. Auch hier gibt es ethische Kriterien, die man reißen oder erfüllen kann.
 
-Eine weitere Ebene ist der ==Umgang mit Kund_innen==. Versuche ich, sie ehrlich zu behandeln oder nicht?
+Eine weitere Ebene ist der **Umgang mit Kund_innen**. Versuche ich, sie ehrlich zu behandeln oder nicht?
 
 Das sind die Spielwiesen, auf denen sich die Ethik eines Unternehmens entscheidet. Wo sie gelingen oder auch krachend scheitern kann.
 
-### Ein Wort, das im Augenblick fast modisch erscheint, ist das Wort „Integrität“. Wie stehen Ethik und Integrität in Zusammenhang?
+### – Ein Wort, das im Augenblick fast modisch erscheint, ist das Wort „Integrität“. Wie stehen Ethik und Integrität in Zusammenhang?
 
 #### Katharina Bauer:
 
 Integrität ist ein wichtiges Konzept. Man kann es auf zwei Ebenen betrachten: einerseits die innere Kohärenz, andererseits nach außen hin die Übereinstimmung mit moralischen Standards – das wäre dann moralische Integrität. Beides gute Maßstäbe dafür, ob ein Unternehmen ethisch funktioniert.
 
-> Wenn ein Unternehmen integer ist, tritt es kohärent auf. Dann stimmt das Handeln mit den Normen und Werten überein, die es vertritt.
+> [!quote] Wenn ein Unternehmen integer ist, tritt es kohärent auf. Dann stimmt das Handeln mit den Normen und Werten überein, die es vertritt.
 
 Weiterhin finde ich das Thema [[Moral Distress]] spannend. Welche Dinge können wir von Mitarbeitenden nicht erwarten, weil das deren eigene moralische Integrität antastet? Ab welcher Grenze werden sie vom Unternehmen ethisch korrumpiert?  Über dieses Thema gibt es aktuell ganz interessante Debatten.
 
@@ -145,13 +145,13 @@ Andererseits liegt eine gewisse Gefahr darin, dass der Begriff Integrität gerad
 
 Das Thema Integrität ist natürlich besonders wichtig in Bezug auf die handelnden Personen oder auf das Unternehmen als Ganzes.
 
-Aber auch die Integrität des Produkts zählt. Produkte haben ja einen bestimmten Anspruch in Bezug darauf, was sie leisten sollen, wie sie arbeiten und wie sie verkauft werden. Das Marketing hingegen möchte das Produkt so darstellen, dass es gut verkauft wird.
+Aber auch die Integrität des Produkts zählt. Produkte haben ja einen bestimmten Anspruch in Bezug darauf, was sie leisten sollen, wie sie arbeiten und wie sie verkauft werden. Das [[Marketing]] hingegen möchte das Produkt so darstellen, dass es gut verkauft wird.
 
 Oft entsteht der Effekt, dass Produkte auf das Marketing hin designt werden. Man baut Merkmale ein, nur weil sich damit das Produkt besser verkauft. Obwohl diese Merkmale das Produkt nicht leistungsfähiger oder besser machen. So verliert dieses Produkt an Integrität.
 
 Ein Beispiel dafür ist der Profifußball. Das Produkt, der Fußball, begeistert die Leute als spannendes Spiel. Aber seit mittlerweile 20-30 Jahren wird er völlig durchkommerzialisiert. Damit wird der Wesenskern – die Integrität – dieses Sports eigentlich völlig ausgehöhlt. Er verliert das, was diesen Sport eigentlich stark macht.
 
-> Wenn diese Integrität auf Dauer zerstört wird, haben Produkt und Unternehmen auf lange Sicht keine Chance, am Markt zu bleiben.
+> [!quote] Wenn diese Integrität auf Dauer zerstört wird, haben Produkt und Unternehmen auf lange Sicht keine Chance, am Markt zu bleiben.
 
 Man muss aber auch sagen: Integrität ist ein großes Ziel. Ein Ziel, das davon lebt, dass es nie zu hundert Prozent erreicht wird. Aber wenn man sich von diesem Ziel verabschiedet, dann geht alles den Bach runter.
 
@@ -165,19 +165,19 @@ Beim Sport erleben wir das sehr öffentlichkeitswirksam. Nicht nur beim Fußball
 >
 > Inwiefern treffen seine Beobachtungen auch auf deine Branche zu?
 
-### Bitte vervollständigt den Satz: „Ethisches Marketing ist ...“
+### – Bitte vervollständigt den Satz: „Ethisches Marketing ist ...“
 
 #### Katharina Bauer:
 
-Ethisches Marketing ist schwierig. Aber ethisches Handeln ist sowieso immer eine Herausforderung – und es ist auf jeden Fall kein Widerspruch in sich.
+> [!quote] Ethisches Marketing ist schwierig. Aber ethisches Handeln ist sowieso immer eine Herausforderung – und es ist auf jeden Fall kein Widerspruch in sich.
 
-Das ist wichtig im Auge zu behalten, weil man beim Thema Marketing ein bisschen dazu neigt, zu denken: Da geht es ums Täuschen und Manipulieren, deswegen ist das an sich falsch. Man darf aber auch nicht den Fehler machen, Kund_innen und Verbraucher_innen für dumm zu halten. Jeder weiß ja, dass in der Werbung mit Fiktionen gespielt wird. Solange das durchsichtig ist, solange das nach fairen Spielregeln funktioniert und am Ende eine gewisse Grundehrlichkeit bleibt, ist ethisches Marketing möglich.
+Das ist wichtig im Auge zu behalten, weil man beim Thema [[Marketing]] ein bisschen dazu neigt, zu denken: Da geht es ums Täuschen und Manipulieren, deswegen ist das an sich falsch. Man darf aber auch nicht den Fehler machen, Kund_innen und Verbraucher_innen für dumm zu halten. Jeder weiß ja, dass in der Werbung mit Fiktionen gespielt wird. Solange das durchsichtig ist, solange das nach fairen Spielregeln funktioniert und am Ende eine gewisse Grundehrlichkeit bleibt, ist ethisches Marketing möglich.
 
 #### Michael Rasche:
 
-Ethisches Marketing ist ein notwendiger Spagat, der nur mit viel Überzeugung und viel Selbstdisziplin gelingen kann.
+> [!quote] Ethisches Marketing ist ein notwendiger Spagat, der nur mit viel Überzeugung und viel Selbstdisziplin gelingen kann.
 
-Nicht alles, was das Marketing passgenauer und effektiver macht, passt auch zu den eigenen Werten. Diesen Unterschied zu erkennen und unter Umständen auf mögliche Einnahmen zu verzichten, braucht Disziplin. Auf Dauer wird sich das rechnen. Deshalb lohnt sich die Frage: Wie überzeugt bin ich eigentlich von dem, was ich da mache und von den Werten, die ich habe?
+Nicht alles, was das [[Marketing]] passgenauer und effektiver macht, passt auch zu den eigenen Werten. Diesen Unterschied zu erkennen und unter Umständen auf mögliche Einnahmen zu verzichten, braucht Disziplin. Auf Dauer wird sich das rechnen. Deshalb lohnt sich die Frage: Wie überzeugt bin ich eigentlich von dem, was ich da mache, und von den Werten, die ich habe?
 
 > [!todo]- **Zum Weiterschauen: das vollständige Interview mit Katharina Bauer und Michael Rasche**
 > 
@@ -187,7 +187,7 @@ Nicht alles, was das Marketing passgenauer und effektiver macht, passt auch zu d
 > - Was braucht es, damit Menschen im Job ethisch handeln können?
 > - Ist es möglich, eine Art Graswurzelbewegung für ethisches Handeln im eigenen Unternehmen zu starten?
 > 
-> [Zum Video (ca. 1 Stunde) mit Transkript]([https://from-scratch.net/de/blog/interview-was-ist-ethisches-marketing](https://from-scratch.net/de/?p=227897))
+> [Zum Video (ca. 1 Stunde) mit Transkript](https://from-scratch.net/de/blog/interview-was-ist-ethisches-marketing/)
 
 ## Wie soll's weitergehen?
 
