@@ -7,7 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      From Scratch Communications: "https://from-scratch.net/de/",
+      "From Scratch Communications": "https://from-scratch.net/de/",
       "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
   }),
