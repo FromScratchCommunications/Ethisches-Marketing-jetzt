@@ -25,7 +25,7 @@ Damit ihr euren Weg bahnen könnt. Und eurer Branche mit gutem Beispiel vorangeh
 - **[[Was heißt hier überhaupt „ethisch“?]] beginnt bei dir und im Herzen deines Unternehmens.** 
 	- [[„Es geht nicht um den erhobenen Zeigefinger“ |Spüre den philosophischen Wurzeln ethischen Marketings nach]] und finde heraus, was dich ganz persönlich antreibt.
 	- [[Wie passt ethisches Marketing zu eurer Firmenstrategie? |Verankert als Team euer Marketing in eurer Unternehmensvision, -mission und euren Werten.]] 
-	- Schafft die Infrastruktur für [[Atlas/Publish/Ethisches Marketing JETZT!/Kapitel 1 – Was ist ethisches Marketing?/Praktische Integrität – Grundlage für ethisches Marketing|praktische Integrität]].
+	- Schafft die Infrastruktur für [[Praktische Integrität – Grundlage für ethisches Marketing|praktische Integrität]].
 	- Kommt mit der [[Toolbox zu Kapitel 1]] ins Denken und Tun.
 
 ### Kapitel 2 (in Arbeit)
@@ -54,9 +54,9 @@ Damit ihr euren Weg bahnen könnt. Und eurer Branche mit gutem Beispiel vorangeh
 
 ### Außerdem ...
 
-- Damit ihr leichter ins Tun kommt, findet ihr zu jedem Kapitel eine ==Toolbox== (in Arbeit) mit vielen nützlichen Empfehlungen. Von Apps bis Software, von Pledges bis zu Weiterbildungsangeboten unterstützen euch kostenfreie und zahlungspflichtige Tools bei der Umsetzung.
+- Damit ihr leichter ins Tun kommt, findet ihr zu jedem Kapitel eine **Toolbox** (in Arbeit) mit vielen nützlichen Empfehlungen. Von Apps bis Software, von Pledges bis zu Weiterbildungsangeboten unterstützen euch kostenfreie und zahlungspflichtige Tools bei der Umsetzung.
 - Das **Ethische Marketing-Bingo** (in Arbeit) konzentriert sich auf die 9 wesentlichen Schritte, die euer Marketing auf Kurs bringen.
-- Zusätzlich gibt es ein **Glossar**, damit du immer weißt, was wir meinen, wenn wir von [[Vision]] oder [[Greenwashing]] sprechen.
+- Zusätzlich gibt es ein **[Glossar](https://ethischesmarketing.jetzt/Glossar/)**, damit du immer weißt, was wir meinen, wenn wir von [[Vision]] oder [[Greenwashing]] sprechen.
 
 Bevor wir einsteigen, noch ein wichtiger Hinweis:
 
@@ -74,7 +74,6 @@ Das bedeutet, dass wir gebräuchliches Marketing-Vokabular voraussetzen. Außerd
 Pro Anmeldung finanzieren wir 2 Tage medizinischen Schutz für Straßenhunde.
 
 ***
-
 ## Unterstützung bei der Umsetzung gewünscht?
 
 [Erfahre mehr über High Fidelity](https://from-scratch.net/de/arbeite-mit-uns/high-fidelity-kommunikation-programm/), unser Rundum-Sorglos-Programm für Marken mit Integrität. Know Your Message. Live Your Message. Share Your Message.
@@ -83,16 +82,3 @@ Pro Anmeldung finanzieren wir 2 Tage medizinischen Schutz für Straßenhunde.
 - Gestalte Texte und Designs im DIY-Verfahren
 - Entdecke neue Methoden, reflektiere über Marketing und Kommunikation
 - Lern unsere Arbeitsweise kennen
-
-***
-
-## Rechtliches & Technisches
-
-[[Impressum & Datenschutz]] | [[Lizenz & Urheberrecht]] | [[Wie diese Seite gebaut ist]]
-© From Scratch Communications 2024
-
-***
-
-## Sonstiges
-
-Wir gendern mit Unterstrich, weil diese Seite in Markdown geschrieben ist – und Sternchen würden hier alles kursiv setzen.

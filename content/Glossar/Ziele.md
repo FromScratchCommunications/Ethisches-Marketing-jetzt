@@ -6,8 +6,6 @@ tags:
 description: Eure Ziele stellen dar, von welchen Handlungen und Ergebnissen eure Mission abhängt. Zu jedem Ziel gehört ein spezifischer Zeitrahmen, in dem es erfüllt werden soll.
 date: 2024-03-11
 ---
-## Eure Ziele
-
 Eure Ziele stellen dar, von welchen Handlungen und Ergebnissen eure [[Mission]] abhängt.
 
 Anders als bei [[Vision]] und [[Mission]] liegt die Kontrolle über ihr Erreichen vollkommen bei euch.

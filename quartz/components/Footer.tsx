@@ -19,19 +19,10 @@ export default ((opts?: Options) => {
           <a href="https://from-scratch.net"> From Scratch Communications</a> (CC) {year}
         </p>
         <p>
-        <a href="https://ethischesmarketing.jetzt/Hilfe--and--Kontakt">Hilfe & Kontakt</a>
+        <a href="https://ethischesmarketing.jetzt/Hilfe--and--Kontakt">Hilfe & Kontakt</a> | <a href="https://ethischesmarketing.jetzt/Impressum--and--Datenschutz">Impressum & Datenschutz</a>
         </p>
         <p>
-        <a href="https://ethischesmarketing.jetzt/Impressum--and--Datenschutz">Impressum & Datenschutz</a>
-        </p>
-        <p>
-        <a href="https://ethischesmarketing.jetzt/Lizenz--and--Urheberrecht">Lizenz & Urheberrecht</a>
-        </p>
-        <p>
-        <a href="https://ethischesmarketing.jetzt/Wie-diese-Seite-gebaut-ist">Wie diese Seite gebaut ist</a>
-        </p>
-        <p>
-        <a href="https://ethischesmarketing.jetzt/Sitemap">Sitemap</a>
+        <a href="https://ethischesmarketing.jetzt/Lizenz--and--Urheberrecht">Lizenz & Urheberrecht</a> | <a href="https://ethischesmarketing.jetzt/Wie-diese-Seite-gebaut-ist">Wie diese Seite gebaut ist</a> | <a href="https://ethischesmarketing.jetzt/Sitemap">Sitemap</a>
         </p>
         <p>
         Wir gendern mit Unterstrich, weil diese Seite in Markdown geschrieben ist – und Sternchen würden hier alles kursiv setzen.
