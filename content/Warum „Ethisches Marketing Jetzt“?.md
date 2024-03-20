@@ -7,7 +7,7 @@ description: Wer heute ethisches Marketing nicht nutzt, riskiert nicht nur die P
 date: 2024-03-11
 ---
 
-Der Markt verändert sich.
+## Der Markt verändert sich
 
 Früher stand oft die Frage im Raum, welche finanziellen Nachteile Unternehmen hinnehmen müssen, wenn sie ihr Marketing auf ethische Grundsätze stellen.
 
@@ -17,9 +17,9 @@ Auch ältere Konsument_innen fordern zunehmend, dass Unternehmen wertorientiert 
 
 Das Resultat:
 
-## Wer heute ethisches Marketing nicht nutzt, riskiert nicht nur die Performanz seiner Werbekampagnen. Für manche steht die Zukunft des Unternehmens auf dem Spiel.
+> [!quote] Wer heute ethisches Marketing nicht nutzt, riskiert nicht nur die Performanz seiner Werbekampagnen. Für manche steht die Zukunft des Unternehmens auf dem Spiel.
 
-Mit dem veränderten Markt haben sich auch die Fragen gewandelt. 
+## Mit dem veränderten Markt haben sich auch die Fragen gewandelt
 
 Heute fragen vorausschauende Marketing-Leads, wie sie mit ethischen Marketing-Strategien und -Taktiken ==dem wachsenden Bewusstsein ihrer Zielgruppen sowie der sich verschärfenden Rechtslage gerecht werden== können. Es geht ihnen darum, die Reputation ihrer Marke(n) zu schützen – und so auch in Zukunft nachhaltigen finanziellen Erfolg zu sichern.
 
@@ -30,7 +30,7 @@ In Gesprächen, Workshops, Blogs und auf Social Media zeigt sich: Viele Unterneh
 
 Auch die Frage nach der Ethik ist von dieser Spannung geprägt.
 
-## Willkommene Zweifel
+### – Willkommene Zweifel
 
 Die meisten Brands und Mitarbeitenden stehen nicht gern als [[„Es geht nicht um den erhobenen Zeigefinger“ |Moralapostel]] da. Dennoch verbreitet sich seit Jahren die Skepsis, ob Marketing alle Mittel und Zwecke heiligt. Eine positive Entwicklung, denn das Zweifeln am Status Quo motiviert zum Erforschen von Alternativen.
 
@@ -38,7 +38,7 @@ Die meisten Brands und Mitarbeitenden stehen nicht gern als [[„Es geht nicht u
 > 
 > – P.J. Blumenthal (Philologe, Schriftsteller, Übersetzer, Lyriker und Journalist)
 
-### In Deutschland, Europa und weltweit fragen sich CMOs, Marketing-Manager_innen und Beratende:
+#### In Deutschland, Europa und weltweit fragen sich CMOs, Marketing-Manager_innen und Beratende:
 
 - Ist es tatsächlich sinnvoll, alle technischen und legalen Möglichkeiten auszureizen?
 - Welche finanziellen Risiken gehen wir ein, wenn wir auf bestimmte Praktiken verzichten?

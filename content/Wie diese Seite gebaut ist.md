@@ -11,6 +11,8 @@ date: 2024-03-11
 
 Diese Seite basiert auf der Philosophie des „digitalen Gartens“. [Der MIT Technology Review erklärt (auf Englisch), was dahinter steckt.](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/)
 
+Zur Domain hat uns übrigens Gerrit Schuster mit seiner Ressource [Nachhaltiges Webdesign Jetzt](https://nachhaltiges-webdesign.jetzt/) inspiriert. Wir sehen diese Website als Geschwister-Angebot und hoffen, dass du beide gemeinsam nutzt.
+
 ## Ein Blick ins Backend
 
 Anfang 2022 hat Sabine das Open-Source-Tool [Obsidian](https://obsidian.md/) entdeckt – und damit die Praxis des persönlichen Wissensmanagements (englisch: Personal Knowledge Management, PKM). 
@@ -18,7 +20,7 @@ Anfang 2022 hat Sabine das Open-Source-Tool [Obsidian](https://obsidian.md/) ent
 
 Zwei Jahre später veröffentlichen wir hier unsere Notizen direkt aus Obsidian heraus. Dazu nutzen wir das Open-Source-Programm [Quartz](https://quartz.jzhao.xyz/). Quartz ist ein Static Site Builder, der aus unseren Obsidian-Notizen eine Website erstellt. (Beim Veröffentlichen war [Nicole van der Hoevens Tutorial](https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages) und Mastodon-Support unschätzbar wertvoll für uns. Danke noch mal, Nicole!)
 
-### Was Obsidian ausmacht, sind die Technologie und Informationshierarchie.
+### – Was Obsidian ausmacht: Technologie & Informations-Architektur
 
 Obsidian-Notizen sind für die Ewigkeit gemacht – und zugleich immer nur Momentaufnahmen.
 
@@ -47,21 +49,22 @@ Das passt ideal zu einem zentralen [[Werte und Prinzipien |Wert]] von From Scrat
 Deswegen wird diese Ressource auch niemals völlig „fertig“ sein. Wer Websites baut, weiß: Der Prozess der iterativen Anpassungen ist nie abgeschlossen. Hier gilt dies noch mehr. Immer, wenn wir neue Aha-Erlebnisse zum Thema ethisches Marketing haben, finden die ihren Eingang in unsere Obsidian-Notizen. Und damit entwickelt sich dieser Leitfaden stetig weiter.
 
 Einige [[Updates & in Planung |Updates]] haben wir bereits geplant. [**Melde dich hier für E-Mail-Updates an**](https://subscribepage.io/E2vu4J) und erfahre, wenn es was Neues gibt.
-### Warum wir uns für Quartz entschieden haben
+### – Warum wir uns für Quartz entschieden haben
 
 Wer seine Obsidian-Notizen veröffentlichen will, hat – Stand März 2024 – drei große Optionen:
 
 1. [Obsidian Publish](https://obsidian.md/publish) – quasi direkt von der Quelle
 2. Das [Digital Garden Plugin](https://dg-docs.ole.dev/) für Obsidian. Damit baust du eine [Eleventy](https://www.11ty.dev/)-Website, die über [GitHub](https://github.com/) & [Netlify](https://www.netlify.com/) veröffentlicht wird.
-3. [Quartz](https://quartz.jzhao.xyz/).
+3. [Quartz](https://quartz.jzhao.xyz/). Damit erstellt man eine statische Website, die über GitHub Pages veröffentlicht wird.
 
 Ursprünglich fiel unsere Wahl auf [Obsidian Publish](https://obsidian.md/publish). Nicht nur, weil es super bequem ist – sondern auch, weil wir gerne das Unternehmen finanziell unterstützen wollen, das uns diese zentrale Notiz-Infrastruktur ermöglicht. Schnell stellte sich allerdings heraus, dass sich die Nutzer-Oberfläche in Obsidian Publish nicht übersetzen lässt. Eine englisch-deutsch-gemischte Ressource bringt einige Probleme mit sich, von mangelnder Barrierefreiheit bis hin zum qualitativ mangelhaften Eindruck. Also mussten wir uns leider nach Alternativen umsehen, zumal Internationalisierung derzeit nicht auf der [Obsidian-Roadmap](https://obsidian.md/roadmap/) steht.
 
 Die nächst einfachere Option schien das [Digital Garden Plugin](https://dg-docs.ole.dev/) zu sein. Doch eine kurze Nachfrage im deutschen [Obsidian-Forum auf Discord](https://discord.com/invite/obsidianmd) zeigte: Auch mit diesem Plugin bekommen wir keine deutschsprachige Nutzeroberfläche hin.
 
-Und das brachte uns zu Option 3: [Quartz](https://quartz.jzhao.xyz/). Technisch bei weitem die anspruchsvollste Option, denn ohne Plugin veröffentlichen wir hier alles via Terminal auf Sabines MacBook. Aber Quartz ermöglicht uns mehr Anpassungen – darunter auch eine (weitgehend) deutschsprachige Nutzeroberfläche.
+Und das brachte uns zu Option 3: [Quartz](https://quartz.jzhao.xyz/). Technisch bei weitem die anspruchsvollste Option, denn ohne Plugin veröffentlichen wir hier alles via Terminal auf Sabines MacBook. Aber Quartz ermöglicht uns mehr Anpassungen – darunter auch eine deutschsprachige Nutzeroberfläche.
 
-### Wie gesagt: Diese Ressource ist für immer „Work in Progress“
+Wie gesagt: 
+## Diese Ressource ist für immer „Work in Progress“
 
 Noch haben wir uns nicht in alle technischen Details reingefuchst, und es gibt noch einiges Verbesserungspotenzial.
 

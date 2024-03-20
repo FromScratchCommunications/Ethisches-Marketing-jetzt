@@ -23,27 +23,36 @@ Pro Anmeldung finanzieren wir 2 Tage medizinischen Schutz für Straßenhunde.
 
 ### „Respekt ist unsere Aufgabe“
 
-Ethisches Marketing – ein Widerspruch in sich?
-„Start with Who“ – Marketing als Beziehungspflege
-Reduziert Barrieren, zieht mehr Menschen an!
+- Ethisches Marketing – ein Widerspruch in sich?
+- „Start with Who“ – Marketing als Beziehungspflege
+- Reduziert Barrieren, zieht mehr Menschen an!
+- Toolbox zu Kapitel 2
 
 ### „Wollt ihr das totale Marketing?“ – Werbung, Content, Aufmerksamkeits-Ökonomie
 
 - Daten schützen + sich beim Marketing drauf stützen
 - Künstliche Intelligenz als Werkzeug im ethischen Marketing
-- SEO + Conversion-Rate.Optimierung: Evidenzbasierte Praktiken ethisch einsetzen
+- SEO + Conversion-Rate-Optimierung: Evidenzbasierte Praktiken ethisch einsetzen
+- Toolbox zu Kapitel 3
 
 ### „Wir müssen bis morgen reichen“ – Marketing für eine enkeltaugliche Welt
 
 - Optimiert den ökologischen Fußabdruck eures Online-Marketings
 - Helft Menschen bei nachhaltigen Entscheidungen
 - Lasst uns gemeinsam die Branche transformieren
+- Toolbox zu Kapitel 4
 
-- Ethisches Marketing Bingo
+
+Ethisches Marketing Bingo
+
+### Glossar-Artikel:
+
+- Stages of Awareness
+- Purpose
 
 ***
 
-## An diesen technischen Verbesserungen arbeiten wir noch:
+## An diesen technischen und Design-Verbesserungen arbeiten wir noch:
 
 - [x] Übersetzung von Datum und Lesezeit ins Deutsche
 - [x] „Zubehör“-Ordner im Explorer verbergen
@@ -51,7 +60,9 @@ Reduziert Barrieren, zieht mehr Menschen an!
 - [x] Logo zum Seitentitel hinzufügen bzw. Seitentitel verbergen und stattdessen über Logo repräsentieren
 - [x] Verbreiterte linke Spalte bei Desktop-Ansicht
 - [x] Optimierte Darstellung von Fettdruck (bold type)
-- [ ] Optimierter Footer mit Quick Links zu Impressum & Datenschutz, Lizenz & Urheberrecht sowie Hilfe & Kontakt
+- [x] Optimierter Footer mit Quick Links zu Impressum & Datenschutz, Lizenz & Urheberrecht sowie Hilfe & Kontakt
+- [ ] Einbinden von Unicode-Symbolen für Creative Commons
+- [ ] Schöneres Callout-Design
 - [ ] Seiten-Sortierung durch bessere Seitentitel optimieren
 
 Stand: März 2024

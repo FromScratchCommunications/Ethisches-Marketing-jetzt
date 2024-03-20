@@ -15,7 +15,7 @@ Heißt das, ethisches Marketing ist rein subjektiv – alles Ansichtssache?
 
 Nein. 
 
-Aber deine Ansicht zählt. Denn Marketing-Ethik ist immer auch Ausdruck der Persönlichkeit einer Marke. Das schließt dich als Mitarbeiter_in und Verantwortliche_n ein.
+Aber deine Ansicht zählt. Denn [[Marketing]]-Ethik ist immer auch Ausdruck der Persönlichkeit einer Marke. Das schließt dich als Mitarbeiter_in und Verantwortliche_n ein.
 
 Ob du das Marketingteam eines Großkonzerns führst, für dein Familienunternehmen Marketing betreibst oder gerade frisch von der Uni kommst: In diesem Kapitel spürst du den philosophischen Wurzeln ethischen Marketings nach. Du reflektierst darüber, wie du sie konkret auf deine eigenen Aufgaben anwenden kannst. Und erstellst einen ersten Plan, wie du Ethik in den Alltag deines (oder eures) Unternehmen integrieren kannst.
 

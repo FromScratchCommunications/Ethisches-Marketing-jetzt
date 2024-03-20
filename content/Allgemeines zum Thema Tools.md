@@ -13,7 +13,7 @@ Ob euch ein Tool was bringt, hängt von euren [[Ziele |Zielen]] ab. Deshalb ers
 ## Wenn ihr tiefer eintauchen wollt, empfehlen wir folgende Verzeichnisse ethisch-nachhaltiger Software-Alternativen:
 
 - Das ECG-Wiki der Gemeinwohl-Ökonomie enthält eine umfangreiche, öffentlich zugängliche [Liste gemeinwohlorientierter IT-Wekzeuge](https://wiki.ecogood.org/display/PUBLIC/Gemeinwohl-orientierte+IT-Werkzeuge "https://wiki.ecogood.org/display/PUBLIC/Gemeinwohl-orientierte+IT-Werkzeuge") auf Deutsch.
-- [Ethical.Net](https://ethical.net/resources/ "https://ethical.net/resources/") umfasst ==alles vom Betriebssystem bis zum Web-Browser.== Auch thematisch passende Organisationen, Konferenzen und Medien werden hier (auf Englisch) gelistet.
+- [Ethical.Net](https://ethical.net/resources/ "https://ethical.net/resources/") umfasst **alles vom Betriebssystem bis zum Web-Browser.** Auch thematisch passende Organisationen, Konferenzen und Medien werden hier (auf Englisch) gelistet.
 - Das Verzeichnis [Switching Software](https://switching.software/ "https://switching.software/") bietet einen besonders nutzungsfreundlichen Zugang zum Thema.
 
-==Unterstützung bei der praktischen Umsetzung== findet ihr bei [Gute Seiten](https://gute-seiten.org/ "https://gute-seiten.org/"). Das Verzeichnis für ethisch-nachhaltige Dienstleister_innen umfasst deutschsprachige Profis und Agenturen für Programmierung, Design, Marketing, Kommunikation und Beratung. Und natürlich unter [[Hilfe & Kontakt]].
+**Unterstützung bei der praktischen Umsetzung** findet ihr bei [Gute Seiten](https://gute-seiten.org/ "https://gute-seiten.org/"). Das Verzeichnis für ethisch-nachhaltige Dienstleister_innen umfasst deutschsprachige Profis und Agenturen für Programmierung, Design, Marketing, Kommunikation und Beratung. Und natürlich unter [[Hilfe & Kontakt]].

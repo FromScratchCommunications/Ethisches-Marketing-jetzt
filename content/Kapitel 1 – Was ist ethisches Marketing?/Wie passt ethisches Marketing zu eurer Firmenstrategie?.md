@@ -1,38 +1,35 @@
 ---
 title: 3. Wie passt ethisches Marketing zu eurer Firmenstrategie?
 draft: false
-enableToc: false
+enableToc: true
 tags: 
 description: Ergründe, wie kohärent eure Marketingstrategie aufgestellt ist. Transformiere dein Unternehmen mit ethischem Marketing.
 date: 2024-03-11
 ---
-*Ergründe, wie kohärent eure Marketingstrategie aufgestellt ist.*
-
 „Integrität“: der Begriff ist [[„Es geht nicht um den erhobenen Zeigefinger“ |im vorigen Beitrag]] mehrfach gefallen. 
 
 „Wenn ein Unternehmen integer ist, tritt es kohärent auf. Dann stimmt das Handeln mit den Normen und Werten überein, die es vertritt,“ so Katharina Bauer.
 
-Auf unser Thema bezogen könnte man sagen: Dann stimmt das *Marketing* mit seinen Normen und Werten überein. Euer Marketing kommuniziert dann nach außen, was euch ausmacht. Und ihr findet Kundschaft, die eure Werte teilt.
+Auf unser Thema bezogen könnte man sagen: Dann stimmt das [[Marketing]] mit seinen Normen und Werten überein. Euer Marketing kommuniziert dann nach außen, was euch ausmacht. Und ihr findet Kundschaft, die eure Werte teilt.
 ## „[[Intention Stack]]“: das ethische Navi für eure Unternehmung
 
-Damit wird deutlich: Dieser Leitfaden gibt euch nicht die Routenplanung vor. Das Navi für ethisches Marketing sitzt im Herzen eurer Organisation – im „[[Intention Stack]]“. Mit diesem Oberbegriff fassen wir [[Vision]] und [[Mission]], [[Ziele]], [[Strategie |Strategien]], [[Taktik |Taktiken]], [[Werte und Prinzipien]] zusammen.
+Damit wird deutlich: Dieser Leitfaden gibt euch nicht die Route vor. Das Navi für ethisches Marketing sitzt im Herzen eurer Organisation – im „[[Intention Stack]]“. Mit diesem Oberbegriff fassen wir Vision und Mission, Ziele, Strategien, Taktiken, Werte und Prinzipien zusammen.
 
 Eine ethische Marketingstrategie lässt sich von eurer [[Vision]] und [[Mission]] leiten. Auf dieser Grundlage plant ihr euren Weg zum Erreichen eurer [[Ziele]]. Ein Weg, der aus vielen kleinen Schritten entsteht – vergleichbar mit praktischen Marketing-[[Taktik |Taktiken]]: unzählige kleine Tasks, Kurskorrekturen und Techniken. Eure [[Werte und Prinzipien]] begleiten euch auf der Reise und helfen, im Alltag integere Entscheidungen zu treffen.
 
-Wahrscheinlich habt ihr bereits eine Marketing-Strategie: einen Plan, wie ihr mittels Marketing eure Geschäftsziele erreichen wollt. Bei der Analyse eures Strategiedokuments ist es wichtig, exakt zwischen [[Strategie]] und [[Taktik]] zu unterscheiden. Sonst verliert ihr den Überblick übers große Ganze und schmeißt beispielsweise vielversprechende Pläne über Bord, nur weil eine [[Taktik]] nicht funktioniert hat. Das kostet unnötig Energie, Zeit und Budget.
-### Unserer Erfahrung nach legen viele Unternehmen großen Wert auf Taktiken.
+Wahrscheinlich habt ihr bereits eine Marketing-Strategie: einen Plan, wie ihr mittels Marketing eure Geschäftsziele erreichen wollt. Bei der Analyse eures Strategiedokuments ist es wichtig, exakt zwischen [[Strategie]] und [[Taktik]] zu unterscheiden. Sonst verliert ihr den Überblick übers große Ganze und schmeißt beispielsweise vielversprechende Pläne über Bord, nur weil eine Taktik nicht funktioniert hat. Das kostet unnötig Energie, Zeit und Budget.
+### – Unserer Erfahrung nach legen viele Unternehmen großen Wert auf Taktiken
 
-Manche feiern und beglückwünschen sich sogar dafür, welche Bandbreite an Tools und Techniken sie nutzen. [[Strategie]] wirkt auf viele eher unsexy und verstaubt oft in Intranet-Ordnern.
+Manche feiern und beglückwünschen sich sogar dafür, welche Bandbreite an Tools und Techniken sie nutzen. Strategie wirkt auf viele eher unsexy und verstaubt oft in Intranet-Ordnern.
 
-==Dabei entscheidet sich bei der [[Strategie]], ob Geschäftsziele integer erreicht werden.== 
-[[Taktik]] ohne Plan führt zu viel Aufwand und Betriebsamkeit, aber nur selten zum Erfolg.
+==Dabei entscheidet sich bei der Strategie, ob ihr Geschäftsziele integer erreicht.==
 
-Bildunterschrift: Hohe Beteiligung, geringe Autonomie: [[Ziele]] sollten sich nicht täglich ändern und müssen im Unternehmen breit mitgetragen werden. Das macht sie weniger agil als Strategien und Taktiken.
+Taktik ohne Plan führt zu viel Aufwand und Betriebsamkeit, aber nur selten zum Erfolg.
 ## Ethisches Marketing transformiert euer Unternehmen
 
 In _[The Ethical Design Handbook](https://ethicaldesignhandbook.com/)_ sprechen Tine Vind, Martin Michael Frederiksen und Kim Andersen von der „ethischen Transformation“. Kein Wunder: Wenn ihr beginnt, eure Entscheidungsgrundlagen auf die dahinter liegenden [[Werte und Prinzipien |Werte]], [[Ziele]] und Prinzipien zu untersuchen, stoßt ihr Veränderungen an. Ihr deckt Widersprüche und Lücken auf und startet Gespräche über die Grundlagen eurer Arbeit. Erfolgreich gestaltet, schafft dieser Prozess Klarheit, Einigkeit und _Purpose_.
 
-Der anfängliche Aufwand (und notwendige Auseinandersetzungen) lohnen sich – denn die Transformation bringt frischen Wind für eure Zusammenarbeit, euer _Employer Branding_ und euer Marketing.
+Der anfängliche Aufwand (einschließlich der notwendigen Auseinandersetzungen) lohnt sich – denn die Transformation bringt frischen Wind für eure Zusammenarbeit, euer _Employer Branding_ und euer Marketing.
 
 > [!warning]- **Stolperfallen: Hierarchie und Alleingang**
 > 
@@ -55,5 +52,5 @@ Der anfängliche Aufwand (und notwendige Auseinandersetzungen) lohnen sich – d
 
 ## Wie soll's weitergehen?
 
-[[Atlas/Publish/Ethisches Marketing JETZT!/Kapitel 1 – Was ist ethisches Marketing?/Praktische Integrität – Grundlage für ethisches Marketing|Leg das Fundament für ethisches Marketing]] oder stöbere direkt in der [[Toolbox zu Kapitel 1]].
+[[Praktische Integrität – Grundlage für ethisches Marketing|Leg das Fundament für ethisches Marketing]] oder stöbere direkt in der [[Toolbox zu Kapitel 1]].
 
