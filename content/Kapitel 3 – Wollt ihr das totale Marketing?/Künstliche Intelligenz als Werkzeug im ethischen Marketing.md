@@ -205,11 +205,11 @@ KI-Anbieter wollen selbstverständlich ihr intellektuelles Eigentum schützen. D
 > Ingmar Schuster rät zusätzlich, 
 > 
 > > nicht bei Anbietern zu kaufen, die keine Modelle selbst entwickeln. Die versuchen vermutlich nur auf der Welle zu reiten und sind schnell wieder verschwunden. 
-> > Und es wäre gut, wenn im Team des Anbieters echte Expert_innen arbeiten. Ein paar Leute, die in Mathe / Statistik / Informatik / Physik promoviert oder wissenschaftliche Papiere veröffentlicht haben sind im Moment schon noch ein guter Ausweis dafür.
+> > Und es wäre gut, wenn im Team des Anbieters echte Expert_innen arbeiten. Ein paar Leute, die in Mathe / Statistik / Informatik / Physik promoviert oder wissenschaftliche Papiere veröffentlicht haben, sind im Moment schon noch ein guter Ausweis dafür.
 
 > [!example]- **Beispiel: Balloonary**
 > 
-> Selbstständigen und KMUs ermöglicht die Plattform [Balloonary](https://www.balloonary.com/), durch Online-Werbung Aufmerksamkeit zu bekommen und es so mit größeren Platzhirschen aufzunehmen. Vorerfahrung mit Online-Ads ist dazu nicht nötig. 
+> Selbstständigen und KMUs ermöglicht die Plattform [Balloonary](https://www.balloonary.com/), durch Online-Werbung Aufmerksamkeit zu bekommen — und es so mit größeren Platzhirschen aufzunehmen. Vorerfahrung mit Online-Ads ist dazu nicht nötig. 
 > 
 > KI erlaubt der Software, Nutzenden in Echtzeit genau angepasste Vorschläge für ihre Anzeigen zu machen. 
 > 
@@ -279,4 +279,4 @@ Auch bei High Tech darf der Spaß nicht zu kurz kommen. Deshalb hier noch eine I
 
 ## Wie soll's weitergehen?
 
-oder stöbere direkt in der [[Toolbox zu Kapitel 3]].
+Etabliert datenschutzfreundliches Marketing an den praktischen Beispielen [[SEO und Conversion-Rate-Optimierung ethisch einsetzen |SEO und CRO]] oder stöbere direkt in der [[Toolbox zu Kapitel 3]].
