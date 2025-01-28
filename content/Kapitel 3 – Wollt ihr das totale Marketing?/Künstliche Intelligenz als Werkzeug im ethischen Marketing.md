@@ -204,7 +204,8 @@ KI-Anbieter wollen selbstverständlich ihr intellektuelles Eigentum schützen. D
 > 
 > Ingmar Schuster rät zusätzlich, 
 > 
-> > nicht bei Anbietern zu kaufen, die keine Modelle selbst entwickeln. Die versuchen vermutlich nur auf der Welle zu reiten und sind schnell wieder verschwunden. 
+> > nicht bei Anbietern zu kaufen, die keine Modelle selbst entwickeln. Die versuchen vermutlich nur auf der Welle zu reiten und sind schnell wieder verschwunden.
+> > 
 > > Und es wäre gut, wenn im Team des Anbieters echte Expert_innen arbeiten. Ein paar Leute, die in Mathe / Statistik / Informatik / Physik promoviert oder wissenschaftliche Papiere veröffentlicht haben, sind im Moment schon noch ein guter Ausweis dafür.
 
 > [!example]- **Beispiel: Balloonary**
