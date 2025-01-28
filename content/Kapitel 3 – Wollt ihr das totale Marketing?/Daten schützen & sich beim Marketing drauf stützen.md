@@ -114,7 +114,7 @@ Gerade im ethischen Marketing spielt er eine größere Rolle als präzises Targe
 >- **Kontext Suchmaschine:** Kontextuelle Suchmaschinenwerbung orientiert sich nicht am Datenprofil der suchenden Person, sondern am eingegebenen Suchbegriff. Dazu kommen möglicherweise zusätzliche Kontextkriterien wie geografische Eingrenzung der Suche, Spracheinstellungen, Tageszeit usw.
 
 > [!todo]- **Nutzt UTM-Parameter**
-> Auch beim kontextbasierten Marketing wollen wir natürlich wissen, wie gut es funktioniert. Welche Anzeige bringt am meisten Conversions? In welche Kontexte lohnt es sich, auch zukünftig zu investieren?
+> Auch beim kontextbasierten Marketing wollen wir natürlich wissen, wie gut es funktioniert. Welche Anzeige bringt am meisten [[Conversion]]s? In welche Kontexte lohnt es sich, auch zukünftig zu investieren?
 > 
 > UTM-Parameter bieten die Datenschutz-freundlichste Methode zur Erfolgsmessung. Sie lassen sich mit jedem Analytics-Tool nachvollziehen, sodass ihr nicht auf die Werbeplattformen von Meta oder Google angewiesen seid. Der deutsche Webanalyse-Anbieter Stetic bietet ein kostenfreies, deutschsprachiges [Tool zum Erstellen von UTM-Parametern](https://www.stetic.com/de/utm-parameter/) an.
 
