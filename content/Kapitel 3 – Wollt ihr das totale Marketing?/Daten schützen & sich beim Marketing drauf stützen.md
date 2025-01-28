@@ -22,7 +22,7 @@ Dies führt zu viel Rauschen und Verzerrungen in der Markenkommunikation. Das Si
 
 ## Für immer mehr Menschen bedeutet das gute Leben, die Kontrolle über die eigenen Daten zu behalten
 
-Zugleich werden wir alle immer vorsichtiger im Umgang mit unseren persönlichen Daten. [Laut the Drum blockieren 70 % der Verbraucher_innen Cookies.](https://www.thedrum.com/opinion/2023/05/09/70-consumers-blocking-cookies-online-research-shows). Wir nutzen Adblocker, legen Fake-Profile an, verwenden Wegwerf-E-Mail-Adressen, um an kostenlose Downloads zu kommen.
+Zugleich werden wir alle immer vorsichtiger im Umgang mit unseren persönlichen Daten. [Laut *The Drum* blockieren 70 % der Verbraucher_innen Cookies.](https://www.thedrum.com/opinion/2023/05/09/70-consumers-blocking-cookies-online-research-shows). Wir nutzen Adblocker, legen Fake-Profile an, verwenden Wegwerf-E-Mail-Adressen, um an kostenlose Downloads zu kommen.
 
 Unsere Geräte und Tools helfen dabei. Ob wir eine Marketing-E-Mail gelesen haben, bleibt immer öfter ein Geheimnis. iOS AppTrackingTransparency unterdrückt auf Wunsch das Verfolgen über mehrere Apps hinweg. Browser wie Safari, Firefox und Brave verhindern Online-Tracking. Anbieter wie Apple und Fastmail ermöglichen das Maskieren der E-Mail-Adresse in wenigen Klicks.
 
