@@ -100,7 +100,7 @@ Der Google-Startleitfaden gibt ein [Beispiel aus dem Fußball-Bereich](https://d
 
 ### Mikro-Conversions sind eine ausgezeichnete Richtschnur für ethische Zielvorgaben
 
-Beide Disziplinen nutzen Mikro-Conversions wie diese, um den Erfolg ihrer Arbeit zu messen:
+Beide Disziplinen nutzen Mikro-[[Conversion]]s wie diese, um den Erfolg ihrer Arbeit zu messen:
 
 - Klick auf den Button „mehr erfahren“
 - Kontaktaufnahme
@@ -116,7 +116,7 @@ Unethisch wird's meist, wenn ein Unternehmen statt auf Mikro-Conversions ausschl
 
 Gesprächseinladungen sind vor allem dann ethisch bedenklich, wenn der Preis des Angebots verheimlicht wird, obwohl er für alle Interessierten einheitlich ist (es sich also nicht um individuelle Kostenvoranschläge handelt). Wer den Preis erst im Gespräch nennt, rechtfertigt das oft so: „Um den Preis verständlich zu machen, muss ich erst XY erklären. Sonst sehen Leute den Preis und springen ab, statt sich zum Gespräch anzumelden.“
 
-**Doch wer so argumentiert, hat CRO missverstanden – und verschwendet Zeit auf beiden Seiten.** ==Korrekt angewandt bedeutet CRO, dass die Website oder Landing Page alle nötigen Infos und Verkaufsargumente bieten muss, damit Lesende den Preis bejahen.==
+Doch wer so argumentiert, hat CRO missverstanden – und verschwendet Zeit auf beiden Seiten. ==Korrekt angewandt bedeutet CRO, dass die Website oder Landing Page alle nötigen Infos und Verkaufsargumente bieten muss, damit Lesende den Preis bejahen.==
 
 Das erfordert meist mehr Text, Empathie und Fallstudien anderer Kund_innen. Doch der vermeintliche Aufwand macht sich in besser qualifizierten Anfragen und reduzierter Arbeitsbelastung für Sales bezahlt.
 
@@ -128,7 +128,7 @@ Das erfordert meist mehr Text, Empathie und Fallstudien anderer Kund_innen. Doch
 > 2. Das Produkt oder die Leistung wird im individuellen Kontext der Person dargestellt und somit noch attraktiver.
 > 3. Im Verlauf des Gesprächs werden mehrfach Fragen gestellt, die die Person voraussichtlich bejahen wird.
 > 4. Darunter ist meist auch die Frage, ob sie das Angebot annehmen möchte.
-> 5. Erst nach diesem "Ja" wird der Preis präsentiert.
+> 5. Erst nach diesem „Ja“ wird der Preis präsentiert.
 > 6. Die soziale Bindung und die 1:1-Situation setzen Interessierte gezielt unter Druck. Folglich trauen sie sich nicht, „Nein“ zu sagen.
 > 
 > **So wird Conversion „herbeimanipuliert“.**

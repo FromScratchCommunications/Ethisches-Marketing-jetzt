@@ -8,7 +8,7 @@ date: 2024-11-28
 ---
 In diesem Kapitel haben wir die Rolle von Daten im Online-Marketing ethisch reflektiert. ==Die wichtigste Botschaft: Ethisches Online-Marketing nutzt Daten besonders smart.== 
 
-- Wir erheben nur, was wir brauchen, und setzen auf Konsens. 
+- [[Daten schützen & sich beim Marketing drauf stützen |Wir erheben nur, was wir brauchen]], und setzen auf Konsens. 
 - [[Künstliche Intelligenz als Werkzeug im ethischen Marketing|Maschinelles Lernen]] kann uns bei der Analyse unterstützen – und Prozesse beschleunigen, wenn wir Inhalte erstellen. 
 - Im [[SEO und Conversion-Rate-Optimierung ethisch einsetzen|Beitrag zu SEO und Conversion-Rate-Optimierung]] haben wir auf konkrete Anwendungsfelder für datengestütztes Marketing geschaut. 
 
