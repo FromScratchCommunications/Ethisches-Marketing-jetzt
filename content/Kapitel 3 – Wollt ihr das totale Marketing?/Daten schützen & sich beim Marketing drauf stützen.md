@@ -105,7 +105,7 @@ Und doch hinkt die Marketingbranche der Praxis vielerorts hinterher. So sagte La
 
 Analoges Marketing denkt schon immer darüber nach, in welchen Kontexten eine Anzeige, ein Angebot oder ein Upsell erscheint. Ursprünglich setzte auch Google auf kontextbasierte Suchmaschinenwerbung. Nun gewinnt der Kontext fürs Online-Marketing neue Relevanz.
 
-Gerade im ethischen Marketing spielt er eine größere Rolle als präzises Targeting. Kein Wunder, denn der Kontext ist ohne Überwachung oder Eindringen in die Privatsphäre ermittelbar. Ein Quäntchen Empathie, Kreativität und Strategie sind alles, was du brauchst. Das Beispiel des niederländischen öffentlich-rechtlichen Senders NPO zeigt: Kontextbasiertes Marketing funktioniert nicht schlechter als Behavioral Targeting. [Wired berichtet, dass sich der Werbeumsatz von NPO nach dem Umstieg 2020 sogar erhöhte.](https://www.wired.com/story/can-killing-cookies-save-journalism)
+Gerade im ethischen Marketing spielt er eine größere Rolle als präzises Targeting. Kein Wunder, denn der Kontext ist ohne Überwachung oder Eindringen in die Privatsphäre ermittelbar. Ein Quäntchen Empathie, Kreativität und Strategie sind alles, was du brauchst. Das Beispiel des niederländischen öffentlich-rechtlichen Senders NPO zeigt: Kontextbasiertes Marketing funktioniert nicht schlechter als Behavioral Targeting. [*Wired* berichtet, dass sich der Werbeumsatz von NPO nach dem Umstieg 2020 sogar erhöhte.](https://www.wired.com/story/can-killing-cookies-save-journalism)
 
 >[!example]- **Beispiele für kontextbasiertes Marketing**
 >- **Kontext Tageszeit:** Ein Supermarkt wirbt morgens mit Zutaten fürs Frühstück und Snacks für die Mittagspause, nachmittags mit Kuchen und abends mit Feierabendbier und Abendessen.
