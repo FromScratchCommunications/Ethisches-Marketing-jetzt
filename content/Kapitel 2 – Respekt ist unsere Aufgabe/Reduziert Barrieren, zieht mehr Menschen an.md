@@ -18,7 +18,7 @@ Ethisches [[Marketing]] schaut aber nicht nur auf den unternehmerischen Gewinn, 
 
 Dennoch sind wir noch weit von [[Marketing]] ohne Barrieren entfernt. Das liegt vor allem daran, wie wir als Gesellschaft über Barrieren denken und sprechen.
 
-### – Wie wir über Barrieren denken, ist entscheidend
+### Wie wir über Barrieren denken, ist entscheidend
 
 #### Das medizinische Modell: „Du bringst deine Barrieren mit, und wir helfen dir“
 
@@ -89,7 +89,7 @@ Und je älter wir werden, umso wahrscheinlicher ist es, dass wir auf behinderung
 >
 >Die WCAG beziehen sich dabei vorwiegend auf physische und kommunikative Barrieren (mehr zu den Barriere-Arten erfährst du im Kasten im folgenden Abschnitt).
 
-### – Wer marginalisiert wird, muss mehr mit Barrieren kämpfen
+### Wer marginalisiert wird, muss mehr mit Barrieren kämpfen
 
 Mit dem sozialen Modell von Behinderung hat sich auch die Definition von Barrierefreiheit (Accessibility) erweitert. Während Behinderte nach wie vor die meisten Barrieren erleben, wächst eine intersektionale Deutung des Begriffs: Barrieren schränken nicht nur geistig oder körperlich behinderte und neurodiverse Personen ein, sondern alle marginalisierten Menschen.
 
@@ -160,7 +160,7 @@ Es gilt also, abzuwägen: ==Wessen Bedürfnisse kann unser Unternehmen auf welch
 > 
 >**Tipp:** Über die laufende Arbeit transparent zu berichten, hilft, das Gefühl des Nie-Fertig-Seins in Schach zu halten. Nebenbei fördert ihr dadurch die Transparenz in eurer Branche und habt eine Chance, wahrheitsgemäß für eure Markenwerte zu werben.
 
-### – Bei der Gewichtung eurer Prioritäten könnt ihr euch wiederum an eurer [[Mission]] und eurem Wunschpublikum orientieren
+### Bei der Gewichtung eurer Prioritäten könnt ihr euch wiederum an eurer [[Mission]] und eurem Wunschpublikum orientieren
 
 - Welche Barrieren treten für diese Menschen möglicherweise auf?
 - Wie lassen sich diese Barrieren ausräumen oder reduzieren?

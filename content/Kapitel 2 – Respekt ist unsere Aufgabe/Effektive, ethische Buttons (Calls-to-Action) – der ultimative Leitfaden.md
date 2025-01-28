@@ -32,7 +32,7 @@ Gleich, ob sie eine Webseite, eine E-Mail oder einen Social-Media-Beitrag lesen:
 
 **„Ein verwirrter Mensch kauft nie.“** ^f4a0d4
 
-### – Fordert Menschen direkt zum Handeln auf
+### Fordert Menschen direkt zum Handeln auf
 
 Direkt zu sein und nicht um den heißen Brei herumzureden sorgt für ein grundlegendes Maß an Klarheit. Wenn ihr nicht sicher seid, ob eure CTAs direkt genug sind, prüft: 
 
@@ -43,7 +43,7 @@ Direkt zu sein und nicht um den heißen Brei herumzureden sorgt für ein grundle
 > 
 > <img class="image-c3dd440 cc-img" src="https://from-scratch.net/wp-content/uploads/2024/09/On-Cloudmonster_Screenshot-2023-05-15-at-17.12.53.webp" width="600" srcset="https://from-scratch.net/wp-content/uploads/2024/09/On-Cloudmonster_Screenshot-2023-05-15-at-17.12.53.webp 600w, https://from-scratch.net/wp-content/uploads/2024/09/On-Cloudmonster_Screenshot-2023-05-15-at-17.12.53-300.webp 300w, https://from-scratch.net/wp-content/uploads/2024/09/On-Cloudmonster_Screenshot-2023-05-15-at-17.12.53-150.webp 150w" sizes="(max-width: 600px) 100vw, 600px" alt="Screenshot von einem Ausschnitt einer Marketing-E-Mail. Ein weißer On Cloudmonster wird von schräg vorne gezeigt. Darüber die Überschrift: Schwungvoll und energiegeladen. Unter dem Bild steht, mit Symbolen versehen: Dämpfung maximal, Gewicht 275g, Sprengung (Drop) 6mm. Darauf folgt ein schwarzer Button mit dem Text: Teste den Cloudmonster." data-cc-comp="component-ccd3a4e">
 
-### – Ob eure CTAs klar und leicht verständlich sind, liegt im Auge eurer Kundschaft
+### Ob eure CTAs klar und leicht verständlich sind, liegt im Auge eurer Kundschaft
 
 Eines der typischen Probleme, auf die wir bei der Optimierung der CTAs unserer Kund_innen stoßen: Für das Unternehmen erscheinen sie klar, für das Publikum jedoch nicht. Die [Studie des Baymard Institute zu CTAs für Abonnementdienste](https://baymard.com/blog/consumables-subscriptions-cta) enthält eindrucksvolle Beispiele (unsere Übersetzung):
 
@@ -53,7 +53,7 @@ Eines der typischen Probleme, auf die wir bei der Optimierung der CTAs unserer K
 > 
 > Tatsächlich erwarten viele, dass die Website ihnen durch den primären CTA „den Einstieg ins Erkunden der Produkte und Dienstleistungen ermöglicht".
 
-### – Beschreibt die Handlung so spezifisch wie möglich (in 2-4 Wörtern)
+### Beschreibt die Handlung so spezifisch wie möglich (in 2-4 Wörtern)
 
 Das Baymard-Beispiel „Loslegen" zeigt, wie schnell man einen CTA irrtümlich für klar hält. So langweilig es klingt: Oft ist der beste Button-Text nicht kreativ oder clever. Er sagt der Person genau, was sie tun soll. Und das auf eine Art, die zum Kontext passt.
 
@@ -101,7 +101,7 @@ Hier kommen zwei Beispiele, um den Unterschied zu veranschaulichen. Sie stammen 
 > 
 > Überraschungen wie diese können Conversion-Killer sein. Und sind ein erstes Anzeichen dafür, dass Menschen möglicherweise Schwierigkeiten haben, auf der Webseite erfolgreich Aufgaben zu erledigen.
 
-### – Das Mittel gegen Verwirrung: die „Rule of One“
+### Das Mittel gegen Verwirrung: die „Rule of One“
 
 Die Einser-Regel oder auch Rule of One besagt, dass erfolgreiche Marketing-Inhalte
 
@@ -119,7 +119,7 @@ Ethisches Marketing kann unterhaltsam, spannend, reizvoll und unterhaltsam sein.
 
 Um eure Handlungsaufforderung emotional wirken zu lassen, könnt ihr beispielsweise auf den Wert der Handlung abzielen:
 
-### – Probiert statt eines Calls-to-Action einen Call-to-Value
+### Probiert statt eines Calls-to-Action einen Call-to-Value
 
 Es besteht ein subtiler, aber wesentlicher Unterschied zwischen dem Ausfüllen eines Formulars und der Reservierung eines Tischs im Restaurant. Streng genommen stellt das Ausfüllen eines kurzen Formulars auf vielen Restaurant-Websites aber genau die Aktion dar, die man bei der Tischreservierung durchführt. Man könnte also argumentieren, dass der beste und klarste CTA lauten sollte: „Formular ausfüllen“.
 
@@ -127,11 +127,11 @@ Das Problem ist nur: Wer hat schon Lust darauf, ein Formular auszufüllen? Selbs
 
 ==Um den CTA ansprechender zu gestalten, rückt den Wert der Aktion in den Fokus: „Tisch reservieren“.== Solange ihr dabei ehrlich seid, ist diese Schreibtechnik ethisch unproblematisch. Und sie hilft, Buttons emotional ansprechender zu gestalten.
 
-### – Setzt über den CTA eine emotionale Überschrift
+### Setzt über den CTA eine emotionale Überschrift
 
 Eure Angebotsbeschreibung und eure Calls-to-Action müssen glasklar sein. An der Stelle solltet ihr das Verständnis nicht mit Wortspielen, Witzen oder cleveren Metaphern trüben. Aber es gibt einen Ort, an dem ihr eurer Fantasie freien Lauf lassen könnt: Überschriften. Gießt eure Kreativität in die Überschriften, und Leute wollen weiterlesen. Eure Buttons erstrahlen dann im Glanz eurer Überschriften, sodass ihr sie auf einen direkten Call to Value reduzieren könnt. (Sabine hat das in einem von [Joanna Wiebes Kursen](https://copyhackers.com/10x-web-copy/) gelernt – Empfehlung!)
 
-### – Schenkt Sicherheit mit Zertifikaten, Probezeiträumen und Garantien
+### Schenkt Sicherheit mit Zertifikaten, Probezeiträumen und Garantien
 
 Wenn es ums Kaufen geht, ist für die meisten Menschen Vertrauen das wichtigste Gefühl. Jetzt einfach in Großbuchstaben zu schreiben: „Vertrau uns!“ ist wahrscheinlich die am wenigsten erfolgreiche Methode, dieses Gefühl zu wecken. Arbeitet stattdessen an den Textstellen unmittelbar neben und unter dem CTA.
 
@@ -143,7 +143,7 @@ In seinem [Artikel für Copyblogger](https://copyblogger.com/optimize-online-cop
 
 **Solange diese Zertifikate und Garantien echt, relevant und transparent sind, ist es ethisch okay, sie zu nennen.**
 
-### – Provoziert Menschen zur Entscheidung
+### Provoziert Menschen zur Entscheidung
 
 Zuguterletzt sollten wir die emotionale Kraft einer kleinen Provokation nicht unterschätzen. Ihr wisst, für wen ihr schreibt. Daher wisst ihr auch, wie ihr spaßig an die Grenze geht – und nicht darüber hinaus.
 
@@ -168,7 +168,7 @@ Deshalb kann es hilfreich sein, wenn ihr mehr als eine Art von CTA auf derselben
 
 Das gilt insbesondere für die Startseite – den am schwierigsten zu gestaltenden Teil jeder Website.
 
-### – Verwendet unterschiedliche CTA-Strategien für Startseiten und Landing Pages
+### Verwendet unterschiedliche CTA-Strategien für Startseiten und Landing Pages
 
 Für die meisten Unternehmen spielen Calls-to-Action auf Startseiten eine besondere Rolle. Und zwar dient die Startseite als Einstieg für alle möglichen Personen:
 
@@ -190,7 +190,7 @@ Bei einem so breiten Publikum werden mehrere Wege und zugehörige CTAs den unter
 
 Im Gegensatz dazu brauchen Verkaufsseiten (Sales Pages), Landing Pages und E-Commerce-Produktseiten einen eher aufgabenorientierten Ansatz. Denn die meisten Besucher_innen denken hier bereits über einen Kauf oder eine Anmeldung nach.
 
-### – Bietet CTAs fürs Entdecken und Loslegen an
+### Bietet CTAs fürs Entdecken und Loslegen an
 
 Die UX-Fachleute des Baymard Institute erläutern dieses Prinzip in der bereits zitierten [Studie über Abonnementdienste](https://baymard.com/blog/consumables-subscriptions-cta). Manche Menschen kommen mit einer **explorativen Haltung** zu euch: Sie sammeln Informationen, stöbern und erkunden ihre Möglichkeiten. Andere sind eher **aufgabenorientiert**. Diese Leute sind bereit, eine Handlung abzuschließen (sich zu registrieren, etwas zu kaufen, einer Community beizutreten).
 
@@ -210,7 +210,7 @@ So bieten SaaS-Unternehmen häufig eine Testversion oder Demo neben einer Kaufop
 
 Wenn ihr euch nicht sicher seid, welcher CTA bei eurem Publikum ankommt, erforscht seine Entscheidungsprozesse. Dann könnt ihr Menschen evidenzbasiert und effektiv bei der Entscheidung unterstützen.
 
-### – Einen Test wert: gegensätzliche CTAs
+### Einen Test wert: gegensätzliche CTAs
 
 Viele Marketing-Fachleute berichten, dass das Anbieten einer „Ja“- und einer „Nein“-Option zu besseren Ergebnissen führt. Die Logik besteht darin, dass Button-Klicks für viele Menschen eine willkommene Gelegenheit darstellen, sich selbst auszudrücken. Wenn es also zwei gegensätzliche CTAs gibt, ist die Wahrscheinlichkeit geringer, dass sie die Seite ohne Entscheidung verlassen. Selbst die Auswahl des „Nein“-Buttons steigert die innere Beteiligung – mit allen positiven Auswirkungen auf die Markenbeziehung.
 
@@ -227,7 +227,7 @@ Ethisch brenzlig wird es, wenn ihr die Taktik des „Confirm-Shaming“ anwendet
 > 
 > Die Formulierung „Nein danke. Ich mag keine Angebote“ ist problematisch. Denn sie ist absichtlich so gestaltet, dass sich Menschen beim Ablehnen des Newsletters unwohl fühlen. Das kann dazu führen, dass sie sich gegen ihren eigenen Wunsch doch für den Newsletter anmelden. Eine Entscheidung, die sie in einem weniger manipulativen Umfeld nicht treffen würden.
 
-### – Achtet auf eure Farbwahl
+### Achtet auf eure Farbwahl
 
 Eine andere, etwas subtilere Version dieser [irreführenden Designpraxis](https://www.deceptive.design/) besteht darin, suggestive Farben zu nutzen. Auch wenn Farbpsychologie größtenteils ein Mythos ist (mehr dazu später in diesem Beitrag), besitzen bestimmte Farben kulturelle Bedeutung.
 
@@ -248,7 +248,7 @@ Die Bedeutung von Rot, Gelb und Grün „färbt“ oft die Unternehmenskommunika
 > 
 > Für jemanden, der_die auf „Abbestellen“ klickt und hier landet, ist das wahrscheinlich nicht die beste Wahl. Egal wie sehr wir uns wünschen, dass die Person unsere E-Mails weiter abonniert.
 
-### – Verwendet für alle Optionen gleich markante CTAs
+### Verwendet für alle Optionen gleich markante CTAs
 
 Bevor wir dieses Thema abschließen, müssen wir noch auf eine verwandte [[Taktik]] eingehen: 
 
@@ -278,7 +278,7 @@ Hast du schon einmal eine Verkaufsseite erlebt, auf der nach jedem Absatz ein Bu
 
 Der Albtraum für Lesende und eure [[Conversion]] gleichermaßen: Schnell entsteht der Eindruck, dass das Unternehmen verzweifelt dem Verkauf hinterher jagt. Doch mehr Buttons bedeuten nicht unbedingt mehr Erfolg.
 
-### – Bringt euren ersten Button spät auf der Seite
+### Bringt euren ersten Button spät auf der Seite
 
 Der wahrscheinlich häufigste Streitpunkt zwischen Text und Design betrifft die Platzierung von Buttons. Viele Designer_innen bringen den ersten Button gerne weit oben auf der Webseite unter – in der oberen Navigation oder im Hero-Bereich, auf jeden Fall über dem Scroll.
 
@@ -286,7 +286,7 @@ Conversion-Texter_innen sind da meist anderer Meinung. [Copyhackers](https://cop
 
 > Ein Riesenthema im Conversion Copywriting: Platziere keine Buttons vorzeitig auf einer Seite. Gib den Leuten zuerst die Informationen, die sie brauchen. Sorge dann dafür, dass der Button bzw. das Ziel leicht anzuklicken ist. Und stelle dann sicher, dass der Button verspricht, was deine Besucher_innen wollen.
 
-### – Verwendet gerade so viele Buttons, wie Lesende brauchen
+### Verwendet gerade so viele Buttons, wie Lesende brauchen
 
 Zu viele Buttons können störend und übermäßig aufdringlich wirken oder die Verständlichkeit eurer Inhalte erschweren. [UX-Berater Matt Isherwood erklärt](https://www.invisionapp.com/inside-design/ecommerce-ctas-that-convert/) (unsere Übertragung):
 
@@ -296,7 +296,7 @@ Zu viele Buttons können störend und übermäßig aufdringlich wirken oder die 
 > 
 > Ich verstehe die Versuchung, die Klickzahlen zu steigern. Aber auf lange Sicht ist es besser, die Landing Page zu vereinfachen und einen klaren primären CTA zu erstellen.
 
-### – Macht eure CTAs groß, auffällig und attraktiv
+### Macht eure CTAs groß, auffällig und attraktiv
 
 Wenn ihr glaubt, dass eure Seite oder E-Mail möglicherweise zu viele Buttons enthält, ist das wahrscheinlich so.
 

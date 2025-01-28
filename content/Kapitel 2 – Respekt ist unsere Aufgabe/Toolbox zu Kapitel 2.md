@@ -20,7 +20,7 @@ Daraus leiten sich Prinzipien wie Respekt, das Vermeiden von Manipulation und Ba
 
 ## Zum Weiterlesen und -schauen
 
-### – zum Beitrag [[Ethisches Marketing, ein Widerspruch in sich?]] (Manipulation und Einflussnahme)
+### Zum Beitrag [[Ethisches Marketing, ein Widerspruch in sich?]] (Manipulation und Einflussnahme)
 
 - Baker, Sherry & David L. Martinson: [The TARES Test: Five Principles for Ethical Persuasion.](https://doi.org/10.1080/08900523.2001.9679610) *Journal of Mass Media Ethics*, 16:2-3, 2001. S. 148–175.
 - Brignull, Harry, et al. [Deceptive Patterns – User Interfaces Designed to Trick You.](https://www.deceptive.design/) _deceptive.design_, 18. Mai 2023.
@@ -37,7 +37,7 @@ Daraus leiten sich Prinzipien wie Respekt, das Vermeiden von Manipulation und Ba
 - Thaler, Prof. Richard H. et al.: _Nudge: Wie man kluge Entscheidungen anstößt._ Econ, 2022.
 - Wehling, Elisabeth: _Politisches Framing: Wie eine Nation sich ihr Denken einredet – und daraus Politik macht._ Ullstein Taschenbuch, 2019.
 
-### – zum Beitrag [[Start with Who – Marketing als Beziehungspflege]]
+### Zum Beitrag [[Start with Who – Marketing als Beziehungspflege]]
 
 - den Bouwmeester, Karin: [Resources for a more inclusive UX research practice.](https://uxinsight.org/resources-for-a-more-inclusive-ux-research-practice/) UXinsight, 12. September 2021
 - Farrell, Susan: UX Research Cheat Sheet. [Nielsen Norman Group](https://www.nngroup.com/articles/ux-research-cheat-sheet/), 12. Februar 2017.
@@ -47,7 +47,7 @@ Daraus leiten sich Prinzipien wie Respekt, das Vermeiden von Manipulation und Ba
 - Watzlawick, Paul et al. _Menschliche Kommunikation: Formen, Störungen, Paradoxien._ Hogrefe 2000.
 - Wiedmaier, Ben: A Comprehensive Guide to Remote User Research: How to Unearth Essential Insights. [dscout Blog](https://dscout.com/people-nerds/remote-research-guide).
 
-### – zu (intersektionaler) Barrierefreiheit
+### Zu (intersektionaler) Barrierefreiheit
 
 > [!info]
 > Unter [Einfach für Alle](https://www.einfach-fuer-alle.de/umsetzen/) stellt die Aktion Mensch eine umfangreiche Palette an **Hilfsmitteln für barrierefreie Kommunikation** zur Verfügung. Von barrierefreien PDF-Dokumenten über die Gestaltung von Online-Befragungen bis hin zur Technik barrierefreier Websites: Hier findet ihr Antworten auf (fast) jede Frage des Alltags.
@@ -82,7 +82,7 @@ Daraus leiten sich Prinzipien wie Respekt, das Vermeiden von Manipulation und Ba
 
 > [!tip] Tipps zur Auswahl von Tools generell und einige empfohlene Software-Verzeichnisse findet ihr in [[Allgemeines zum Thema Tools]].
 
-### – zum Beitrag [[Start with Who – Marketing als Beziehungspflege]]
+### Zum Beitrag [[Start with Who – Marketing als Beziehungspflege]]
 
 Der respektvolle, inklusive und DSGVO-konforme Umgang mit persönlichen Daten beginnt schon bei **UX Research und Marktforschung**. Dazu empfehlen wir, eine Online-Datenbank mit Dashboards für jedes Projekt anzulegen. Erforderliche Zustimmung und persönliche Daten holt ihr mit Online-Formularen barrierefreundlich und transparent ein. Wenn die Zeit kommt, werdet ihr automatisch daran erinnert, Daten zu löschen.
 
@@ -90,7 +90,7 @@ Der respektvolle, inklusive und DSGVO-konforme Umgang mit persönlichen Daten be
 - Mit der Plattform [Lyssna](https://www.lyssna.com/) **testet ihr konsensbasiert, schnell und unkompliziert Texte, Designs und User Experiences**. Ladet eure eigenen Teilnehmenden ein, um das Tool gratis zu nutzen. Oder greift auf das globale Panel des Anbieters zurück und zahlt je nach Test-Umfang eine feste Gebühr.
 - Die österreichische Firma [Userbrain](https://www.userbrain.com/) ermöglicht **Remote-User-Testing eurer Website** zu relativ kleinen Preisen. Der slowakische Anbieter [UXtweak](https://www.uxtweak.com/) bietet das volle Paket mit  Session-Aufzeichnungen, Umfragen, Usability-Tests und mehr. Da die beiden letztgenannten Firmen in der EU sitzen, gilt automatisch die DSGVO.
 
-### – zum Beitrag [[Reduziert Barrieren, zieht mehr Menschen an]]
+### Zum Beitrag [[Reduziert Barrieren, zieht mehr Menschen an]]
 
 #### Verständliche Sprache ohne Diskriminierung
 

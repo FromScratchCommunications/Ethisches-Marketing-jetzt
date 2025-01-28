@@ -18,7 +18,7 @@ Nach dem [[Intention Stack]] ist also die erste Frage, die wir beantworten müss
 
 Denn ==alle weiteren Entscheidungen hängen davon ab, welches Versprechen, welche Ideen und welche Handlungsaufforderung für die Person relevant sind, die wir erreichen wollen==.
 
-### – Wenn wir nicht wissen, an wen wir uns richten, scheint [[Manipulation]] der letzte Ausweg
+### Wenn wir nicht wissen, an wen wir uns richten, scheint [[Manipulation]] der letzte Ausweg
 
 Im Englischen fallen im Zusammenhang mit effektivem Marketing und [[Conversion]] oft Begriffe wie „persuasive copy“ und „trigger the right emotions“. 
 

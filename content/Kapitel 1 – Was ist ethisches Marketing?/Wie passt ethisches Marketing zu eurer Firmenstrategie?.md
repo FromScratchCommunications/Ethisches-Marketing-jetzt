@@ -18,7 +18,7 @@ Damit wird deutlich: Dieser Leitfaden gibt euch nicht die Route vor. Das Navi f�
 Eine ethische Marketingstrategie lässt sich von eurer [[Vision]] und [[Mission]] leiten. Auf dieser Grundlage plant ihr euren Weg zum Erreichen eurer [[Ziele]]. Ein Weg, der aus vielen kleinen Schritten entsteht – vergleichbar mit praktischen Marketing-[[Taktik |Taktiken]]: unzählige kleine Tasks, Kurskorrekturen und Techniken. Eure [[Werte und Prinzipien]] begleiten euch auf der Reise und helfen, im Alltag integere Entscheidungen zu treffen.
 
 Wahrscheinlich habt ihr bereits eine Marketing-Strategie: einen Plan, wie ihr mittels Marketing eure Geschäftsziele erreichen wollt. Bei der Analyse eures Strategiedokuments ist es wichtig, exakt zwischen [[Strategie]] und [[Taktik]] zu unterscheiden. Sonst verliert ihr den Überblick übers große Ganze und schmeißt beispielsweise vielversprechende Pläne über Bord, nur weil eine Taktik nicht funktioniert hat. Das kostet unnötig Energie, Zeit und Budget.
-### – Unserer Erfahrung nach legen viele Unternehmen großen Wert auf Taktiken
+### Unserer Erfahrung nach legen viele Unternehmen großen Wert auf Taktiken
 
 Manche feiern und beglückwünschen sich sogar dafür, welche Bandbreite an Tools und Techniken sie nutzen. Strategie wirkt auf viele eher unsexy und verstaubt oft in Intranet-Ordnern.
 

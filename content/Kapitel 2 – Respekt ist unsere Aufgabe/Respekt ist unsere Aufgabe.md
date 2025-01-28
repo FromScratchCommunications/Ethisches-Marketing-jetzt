@@ -17,7 +17,7 @@ Kein Unternehmen nimmt sich vor, seine Kundschaft und Mitarbeitende so respektlo
 
 Wenn das geschieht, war das [[Marketing]] wahrscheinlich nicht so ethisch, wie es hätte sein können. Doch wie beugt ihr solchen Fehltritten vor?
 
-### – Ethische Calls-to-Action versus [[Manipulation]], Inklusion versus Barrieren
+### Ethische Calls-to-Action versus [[Manipulation]], Inklusion versus Barrieren
 
 Unserer Erfahrung nach wird konsequent ethisches Handeln überraschend einfach, wenn wir die großen Wörter genau unter die Lupe nehmen. Sobald du im Detail beschreiben kannst, wie Menschen eure Marke erleben sollen, wird ethisches Marketing kreativ und spielerisch – es macht richtig Spaß! 
 
@@ -31,7 +31,7 @@ Ihr ermöglicht allen, euer Marketing vollwertig zu erleben – ohne Bevormundun
 
 Ganz klar: Das klappt nur, wenn ihr euer Publikum gut einschätzen könnt. Deshalb ist auch Publikumsforschung eine Frage des Respekts. Wie ihr ethisch forscht, ist also ebenfalls Teil dieses Kapitels.
 
-### – Nach dem Lesen dieses Kapitels kannst du
+### Nach dem Lesen dieses Kapitels kannst du
 
 - [[Ethisches Marketing, ein Widerspruch in sich? |zwischen effektivem Marketing und Manipulation unterscheiden]] und euer eigenes Marketing entsprechend einordnen
 - [[Start with Who – Marketing als Beziehungspflege |Publikumsforschung nutzen, um Kund_innen respektvoll anzuziehen und dauerhaft zu binden]] – ohne sie zum Kauf drängen zu müssen

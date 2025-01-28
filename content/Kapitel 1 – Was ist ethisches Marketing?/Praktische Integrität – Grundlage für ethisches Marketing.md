@@ -14,7 +14,7 @@ In diesem Sinne verwendet, trifft das Wort „Integrität“ kein moralisches Ur
 
 Das Wort **„praktische Integrität“** haben wir geschöpft, um die gegenseitige Abstimmung und enge Zusammenarbeit der Teams und Funktionen zu beschreiben, die für die Kundschaft und deren Erfahrung mit der Marke relevant sind. Oft sind das [[Produkt]], [[Sales]] und [[Marketing]].
 
-### – Ohne praktische Integrität zerbricht das Unternehmen
+### Ohne praktische Integrität zerbricht das Unternehmen
 
 In Unternehmen wirkt fehlende praktische Integrität vielleicht weniger dramatisch und tödlich als auf der Enterprise. Aber nur auf den ersten Blick. Starke, kooperative Beziehungen schützen das Unternehmen nämlich auf die gleiche Art wie es bei der Enterprise die Materialien, Strukturen und Komponenten tun. Ohne enge Arbeitsbeziehungen wird die Firma unberechenbar oder gar chaotisch auftreten. Sie wird Kund_innen verwirren, unklare Botschaften verbreiten – mit sinkenden Conversion Rates als Folge. Nicht zuletzt steigt die Gefahr für [[Greenwashing]], Datenschutzverstöße und irreführende Claims. 
 
@@ -24,7 +24,7 @@ Nicht nur das: Es lohnt sich auch finanziell, [[Produkt]], [[Sales]] und [[Marke
 
 Das klingt logisch – aber umgesetzt werden diese Erkenntnisse noch viel zu wenig. Die Realität sieht eher so aus:
 
-### – Sales, Marketing und Produkt sind oft nur schwach verbunden
+### Sales, Marketing und Produkt sind oft nur schwach verbunden
 
 Seit den frühen 2000er-Jahren beobachten wir: Praktische Integrität wird nur selten konsequent oder systematisch umgesetzt. Wohl auch, weil der Vorsatz, „gut zusammenzuarbeiten”, meist ohne praktische Handlungsanweisungen auskommen muss – und ohne eine unparteiische Begleitung oft ergebnislos bleibt. Selbst in erfolgreichen kleinen Unternehmen, wo eine engere Abstimmung aufgrund der überschaubaren Teamgrößen zumindest theoretisch leichter sein sollte.
 
@@ -104,7 +104,7 @@ Diese Art der Zusammenarbeit erfordert bewusste Veränderungen der Gewohnheiten 
 
 Natürlich ist auch die volle Beteiligung und Zustimmung eures Führungsteams und ggf. eurer Investor_innen entscheidend.
 
-### – Von der Sales Pipeline bis zum Produktmarketingbericht: Ineinandergreifende Leistungsanforderungen fördern praktische Integrität
+### Von der Sales Pipeline bis zum Produktmarketingbericht: Ineinandergreifende Leistungsanforderungen fördern praktische Integrität
 
 Praktische Integrität bedeutet, dass ihr jeden Berührungspunkt mit dem Markt danach bewertet, wie gut er für das gesamte Unternehmen funktioniert.
 

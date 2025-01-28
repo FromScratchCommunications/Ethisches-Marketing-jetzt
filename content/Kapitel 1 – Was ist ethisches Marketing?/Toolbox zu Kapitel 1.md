@@ -38,7 +38,7 @@ Ohne diese Klarheit bleibt verschwommen, wie Integrität für euer Unternehmen k
 
 > [!tip] Tipps zur Auswahl von Tools generell und einige empfohlene Software-Verzeichnisse findet ihr in [[Allgemeines zum Thema Tools]].
 
-### – zum Beitrag: [[„Es geht nicht um den erhobenen Zeigefinger“]]
+### Zum Beitrag: [[„Es geht nicht um den erhobenen Zeigefinger“]]
 
 Komplexe Themen wie Marketing-Ethik sind nie letztgültig geklärt. Außerdem docken sie an viele persönliche und professionelle Meinungen, Erfahrungen und Praktiken an. Um das angemessen zu verarbeiten, empfehlen wir dir, Notizen zu machen. Dafür gibt es mittlerweile eine Menge toller **=Denk-Tools** (Tools of Thought). 
 
@@ -48,7 +48,7 @@ Unsere Favoriten:
 - Wie eine Mischung aus Obsidian und Miro funktioniert [Scrintal](https://www.scrintal.com/ "https://www.scrintal.com/"). Die Software erlaubt zudem einen Export in gängige Formate wie Powerpoint. So wird es noch einfacher, deine Gedanken mit anderen zu teilen.
 - Fürs Denken und Organisieren im Team empfehlen wir [Notion](https://www.notion.so/ "https://www.notion.so/"). [[Praktische Integrität – die Grundlage für ethisches Marketing |Praktische Integrität]] ist leichter zu erreichen, wenn alle Zugriff auf zentrale Ressourcen haben und gemeinsam an ethischen Standpunkten feilen können – auch asynchron. Vernetzte Datenbanken und die schiere Menge an Integrationen erleichtern die interdisziplinäre Zusammenarbeit.
 
-### – zum Beitrag: [[Praktische Integrität – die Grundlage für ethisches Marketing]]
+### Zum Beitrag: [[Praktische Integrität – die Grundlage für ethisches Marketing]]
 
 - Die [Purpose Cards](https://purpose.cards/ "https://purpose.cards/") von Studio Für Morgen erleichtern euch den **Einstieg in zentrale ethische Themen** – von euren [[Werte und Prinzipien |Werten]] und Stärken bis zur Nachhaltigkeit. Die Karten gibt es auf Deutsch und Englisch. Sie sind bewusst so gestaltet, dass „Menschen in eurem Unternehmen wichtige Zusammenhänge verstehen, gemeinsam Lösungsansätze finden und ins Handeln kommen.“
 - Ganz wichtig für praktische Integrität: **transparente Entscheidungsfindung**. Dazu gehört es auch, demokratische Strukturen da einzuführen, wo es möglich ist. Ein nützliches Tool stellt [Gruppenentscheidung](https://gruppenentscheidung.de/ "https://gruppenentscheidung.de/") von Techgenossen dar. Das Online-Werkzeug nutzt die Methode „Systemisches Konsensieren“.
