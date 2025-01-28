@@ -16,6 +16,7 @@ Ethisches Marketing Jetzt ist ein Projekt von [From Scratch Communications](http
 [Erfahre mehr über High Fidelity](https://from-scratch.net/de/arbeite-mit-uns/high-fidelity-kommunikation-programm/), unser Rundum-Sorglos-Programm für Marken mit Integrität. Know Your Message. Live Your Message. Share Your Message.
 
 [Auf der From Scratch Website gibt's noch mehr Inspiration & Tipps](https://from-scratch.net/de/tipps/) zum ethischen Marketing. 
+
 - Gestalte Texte und Designs im DIY-Verfahren
 - Entdecke neue Methoden, reflektiere über Marketing und Kommunikation
 - Lern unsere Arbeitsweise kennen

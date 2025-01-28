@@ -1,6 +1,6 @@
 ---
 title: Frames
-draft: true
+draft: false
 enableToc: false
 tags: 
 description: Frames prägen bewusst und unbewusst, was wir sehen und wie wir es sehen.

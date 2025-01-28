@@ -68,7 +68,7 @@ Wenn du dir nicht 100 % sicher bist, ob eine Kampagne, ein Website-Text oder ein
 
 > [!todo]- **Schnelltest: Überzeugt ihr noch oder manipuliert ihr schon?**
 > 
-> Testet euer Marketing anhand des Transparenz-Prinzips (*Publicity Principle*) des US-amerikanischen Philosophen John Rawls (1971). Du kannst den Test allein oder im Team durchführen.
+> Testet euer Marketing anhand des [[Transparenz-Prinzip]]s (*Publicity Principle*) des US-amerikanischen Philosophen John Rawls (1971). Du kannst den Test allein oder im Team durchführen.
 > 
 > - Schreibe stichpunktartig zu jedem Element (Absatz, Button, Bild usw.) hinzu, welche Technik ihr hier einsetzt, um euer Publikum zu beeinflussen. Beispiel: 
 > 	- [[Value Proposition|Wertversprechen]] nach dem Muster „*Produkt* ermöglicht *Vorteil* für *Zielgruppe* auf *besondere* Weise“

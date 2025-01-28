@@ -18,17 +18,19 @@ Seit 2018 unterstützt Sabine ehrenamtlich die internationale Bewegung für ethi
 
 [Verbinde dich mit Sabine auf LinkedIn](https://www.linkedin.com/in/sabineharnau/)
 
-## Holger Schueler (er/ihm)
+## Holger Schueler (er/keine Pronomen)
+
 <img class="image-c3dd440 cc-img" src="https://from-scratch.net/wp-content/uploads/2023/09/holger-schueler-duotone.webp" height="300" width="300" srcset="https://from-scratch.net/wp-content/uploads/2023/09/holger-schueler-duotone.webp 600w, https://from-scratch.net/wp-content/uploads/2023/09/holger-schueler-duotone-300x300.webp 300w, https://from-scratch.net/wp-content/uploads/2023/09/holger-schueler-duotone-150x150.webp 150w" sizes="(max-width: 600px) 100vw, 600px" alt="Pink-grün eingefärbtes Duotone-Foto von Holger Schueler. Er lächelt leicht und schaut dich aufmerksam direkt an. Er trägt eine Stark Industries Baseball-Kappe und ein Sweatshirt mit Comic-Print." data-cc-comp="component-ccd3a4e">
 
 Holger Schueler leitete 15 Jahre lang Transformation in SaaS-Unternehmen und begleitete Firmen durch einschneidende Technologie- und Arbeitswelt-Veränderungen. 
-Seine Erfahrung umfasst Produktmanagement, strategische Partnerschaften, Customer Success und Sales.
+Holgers Erfahrung umfasst Produktmanagement, strategische Partnerschaften, Customer Success und Sales.
 
-Bei [From Scratch Communications](https://from-scratch.net/) begleitet er als Head of Culture & Client Engagement Organisationen aus aller Welt auf ihrer Reise in die praktische Integrität. 
+Bei [From Scratch Communications](https://from-scratch.net/) begleitet Holger als Head of Culture & Client Engagement Organisationen aus aller Welt auf ihrer Reise in die praktische Integrität. 
 
-Nebenbei engagiert er sich als Vorstandsmitglied bei [Creatives For Future Deutschland](https://creativesforfuture.de/) sowie bei [The Ethical Move](https://theethicalmove.org).
+Nebenbei engagiert Holger sich als Vorstandsmitglied bei [Creatives For Future Deutschland](https://creativesforfuture.de/) sowie bei [The Ethical Move](https://theethicalmove.org).
 
 [Verbinde dich mit Holger auf LinkedIn](https://www.linkedin.com/in/holger-schueler/)
 
 ## Wie soll's weitergehen?
+
 [[Was heißt hier überhaupt „ethisch“?|Ergründe deine Philosophie]] oder [schick Sabine und Holger ‘ne Mail](mailto:ethisches-marketing@from-scratch.net) .

@@ -57,4 +57,5 @@ Aber wir lassen euch dabei nicht allein.
 Du bist immer noch hier? – Super! 
 
 ## Wie soll's weitergehen?
-[[Die Autor*innen|Lern uns kennen]] oder geh zurück zur [[Atlas/Publish/Ethisches Marketing JETZT!/index|Homepage]].
+
+[[Die Autor*innen|Lern uns kennen]] oder geh zurück zur [[index|Homepage]].

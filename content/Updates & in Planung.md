@@ -19,13 +19,6 @@ Du kannst jederzeit entscheiden, ob und welche Arten von E-Mails du bekommen wil
 
 ## Folgende Kapitel sind derzeit noch in Arbeit:
 
-### „Wollt ihr das totale Marketing?“ – Werbung, Content, Aufmerksamkeits-Ökonomie
-
-- Daten schützen + sich beim Marketing drauf stützen
-- Künstliche Intelligenz als Werkzeug im ethischen Marketing
-- SEO + Conversion-Rate-Optimierung: Evidenzbasierte Praktiken ethisch einsetzen
-- Toolbox zu Kapitel 3
-
 ### „Wir müssen bis morgen reichen“ – Marketing für eine enkeltaugliche Welt
 
 - Optimiert den ökologischen Fußabdruck eures Online-Marketings
@@ -61,4 +54,4 @@ Ethisches Marketing Bingo
 - [ ] Dark Mode für WebsiteCarbon Badge im Footer einrichten
 - [ ] Explorer-Navigation auch bei Mobilansicht und kleineren Laptop-Bildschirmen bis 13 Zoll anzeigen
 
-Stand: Oktober 2024
+Stand: November 2024

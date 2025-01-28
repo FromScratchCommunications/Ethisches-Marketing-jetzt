@@ -39,7 +39,7 @@ Im Gegensatz dazu steht beim ethischen Marketing im Vordergrund, dass wir Mensch
 
 All das ist nur möglich, wenn wir unser Publikum ausreichend kennen. Rein demografisch ausgelegte Personas sind da wenig hilfreich. Wirkungsvolles Marketing beruht auf Details und einem Gefühl von Intimität. Es erzeugt den Eindruck: „Diese Marke kennt mich – dieses Produkt ist für Menschen wie mich – da fühle ich mich verstanden.“ 
 
-Dabei kommt ethisches Marketing ohne creepy Datenkraken und Überwachungskapitalismus aus.
+Dabei kommt ethisches Marketing ohne creepy Datenkraken und [[Überwachungskapitalismus]] aus.
 
 > [!todo]- **Checkliste: Diese Infos helfen dir beim ethischen Marketing**
 > 
@@ -94,7 +94,7 @@ Um das herauszufinden, nutzt ethisches Marketing vor allem wissenschaftliche Stu
 
 ## So kannst du deine Erkenntnisse für die Weiterarbeit bündeln
 
-Für die Analyse deiner Einsichten bieten sich verschiedene Modelle an. Eines der nützlichsten stammt von Eugene Schwartz, dem Autor des legendären Werbe-Klassikers [Breakthrough Advertising](https://breakthroughadvertisingbook.com) von 1966. Sein Modell der fünf Bewusstseinsstufen zeigt, welche Entwicklung stattfinden muss, damit ein Mensch kauft bzw. konvertiert:
+Für die Analyse deiner Einsichten bieten sich verschiedene Modelle an. Eines der nützlichsten stammt von Eugene Schwartz, dem Autor des legendären Werbe-Klassikers [Breakthrough Advertising](https://breakthroughadvertisingbook.com) von 1966. Sein Modell der fünf Bewusstseinsstufen zeigt, welche Entwicklung stattfinden muss, damit ein Mensch kauft bzw. konvertiert: ^cdd963
 
 <img class="image-c3dd440 cc-img" src="https://from-scratch.net/wp-content/uploads/2024/08/5-Bewusstseinsstufen.svg" height="600" width="600" srcset="https://from-scratch.net/wp-content/uploads/2024/08/5-Bewusstseinsstufen.svg 600w, https://from-scratch.net/wp-content/uploads/2024/08/5-Bewusstseinsstufen-300x300.svg 300w, https://from-scratch.net/wp-content/uploads/2024/08/5-Bewusstseinsstufen-150x150.svg 150w" sizes="(max-width: 600px) 100vw, 600px" alt="Darstellung der 5 Bewusstseinsstufen von Eugene Schwartz als konzentrische Kreise. Stufe 1, größter Kreis und damit die meisten Menschen: Unbewusst. Stufe 2: Problem erkannt. Stufe 3: Lösung erkannt. Stufe 4: Produkt erkannt. Stufe 5, kleinster Kreis und somit die wenigsten Menschen: Alles klar." data-cc-comp="component-ccd3a4e">
 

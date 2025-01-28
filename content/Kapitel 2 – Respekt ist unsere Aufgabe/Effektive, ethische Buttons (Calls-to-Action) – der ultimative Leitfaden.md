@@ -28,7 +28,9 @@ Dennoch gibt es ein paar grundlegende Tipps, die die Effektivität eurer CTAs au
 
 ## Das Wichtigste zuerst: Schafft Klarheit
 
-Gleich, ob sie eine Webseite, eine E-Mail oder einen Social-Media-Beitrag lesen: Menschen wollen wissen, worum es geht. Sobald sie sich desorientiert fühlen, verlieren sie das Interesse. Hier erfüllt gutes Marketing sowohl die Bedürfnisse des Publikums als auch die eures Unternehmens. Denn einer der zentralen Grundsätze der Conversion-Rate-Optimierung besagt: **„Ein verwirrter Mensch kauft nie.“**
+Gleich, ob sie eine Webseite, eine E-Mail oder einen Social-Media-Beitrag lesen: Menschen wollen wissen, worum es geht. Sobald sie sich desorientiert fühlen, verlieren sie das Interesse. Hier erfüllt gutes Marketing sowohl die Bedürfnisse des Publikums als auch die eures Unternehmens. Denn einer der zentralen Grundsätze der Conversion-Rate-Optimierung besagt: 
+
+**„Ein verwirrter Mensch kauft nie.“** ^f4a0d4
 
 ### – Fordert Menschen direkt zum Handeln auf
 

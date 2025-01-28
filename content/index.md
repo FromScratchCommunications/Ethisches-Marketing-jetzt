@@ -28,20 +28,20 @@ Damit ihr euren Weg bahnen könnt. Und eurer Branche mit gutem Beispiel vorangeh
 	- Schafft die Infrastruktur für [[Praktische Integrität – Grundlage für ethisches Marketing|praktische Integrität]].
 	- Kommt mit der [[Toolbox zu Kapitel 1]] ins Denken und Tun.
 
-### Kapitel 2 (*neu!*)
+### Kapitel 2
 
 - In **„[[Respekt ist unsere Aufgabe]]“** geht es um die Beziehung zu eurem Publikum.
 	- [[Ethisches Marketing, ein Widerspruch in sich? |Definiert, wie ihr eure Zielgruppe, Leads und Kund_innen behandeln wollt.]] 
 	- [[Start with Who – Marketing als Beziehungspflege |Versteht die Menschen]], für die ihr Marketing erstellt.
 	- Erhöht die [[Reduziert Barrieren, zieht mehr Menschen an |Barrierefreiheit]] eures Unternehmensauftritts. 
-	- Setzt ethisches Marketing anhand eines alltagspraktischen Beispiels um: [[[Effektive, ethische Buttons (Calls-to-Action) – der ultimative Leitfaden |Führt einen Audit der Calls-to-Action auf eurer Website durch.]]
+	- Setzt ethisches Marketing anhand eines alltagspraktischen Beispiels um: [[Effektive, ethische Buttons (Calls-to-Action) – der ultimative Leitfaden|Führt einen Audit der Calls-to-Action auf eurer Website durch.]]
 
-### Kapitel 3 (in Arbeit)
+### Kapitel 3 (*neu!*)
 
-- **„Wollt ihr das totale Marketing?“ – Werbung, Content, Aufmerksamkeits-Ökonomie** bettet euer Handeln in die Gesellschaft ein.
-	- Analysiert, welche aufs Marketing bezogenen Daten ihr als Unternehmen speichert – und welche ihr tatsächlich nutzt.
-	- Bewertet den Einsatz von maschinellem Lernen bzw. Künstlicher Intelligenz im Marketing. 
-	- Etabliert datenschutzfreundliches Marketing an den praktischen Beispielen SEO und CRO.
+- **[[„Wollt ihr das totale Marketing?“]] – Werbung, Content, Aufmerksamkeits-Ökonomie** bettet euer Handeln in die Gesellschaft ein.
+	- [[Daten schützen & sich beim Marketing drauf stützen |Analysiert, welche aufs Marketing bezogenen Daten ihr als Unternehmen speichert]] – und welche ihr tatsächlich nutzt.
+	- Bewertet den [[Künstliche Intelligenz als Werkzeug im ethischen Marketing |Einsatz von maschinellem Lernen bzw. Künstlicher Intelligenz im Marketing]]. 
+	- Etabliert datenschutzfreundliches Marketing an den praktischen Beispielen [[SEO und Conversion-Rate-Optimierung ethisch einsetzen |SEO und CRO]].
 
 ### Kapitel 4 (in Arbeit)
 
@@ -71,7 +71,6 @@ Das bedeutet, dass wir gebräuchliches Marketing-Vokabular voraussetzen. Außerd
 ### Bleib über neue Inhalte auf dem Laufenden:
 
 [**Melde dich hier für E-Mail-Updates an.**](https://subscribepage.io/E2vu4J) Du kannst jederzeit entscheiden, ob und welche Arten von E-Mails du bekommen willst. Schau dazu auch in unsere [[Impressum & Datenschutz |Datenschutzerklärung]].
-Pro Anmeldung finanzieren wir 2 Tage medizinischen Schutz für Straßenhunde.
 
 ***
 ## Unterstützung bei der Umsetzung gewünscht?
@@ -79,6 +78,7 @@ Pro Anmeldung finanzieren wir 2 Tage medizinischen Schutz für Straßenhunde.
 [Erfahre mehr über High Fidelity](https://from-scratch.net/de/arbeite-mit-uns/high-fidelity-kommunikation-programm/), unser Rundum-Sorglos-Programm für Marken mit Integrität. Know Your Message. Live Your Message. Share Your Message.
 
 [Auf der From Scratch Website gibt's noch mehr Inspiration & Tipps](https://from-scratch.net/de/tipps/) zum ethischen Marketing. 
+
 - Gestalte Texte und Designs im DIY-Verfahren
 - Entdecke neue Methoden, reflektiere über Marketing und Kommunikation
 - Lern unsere Arbeitsweise kennen
