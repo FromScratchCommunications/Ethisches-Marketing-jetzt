@@ -6,7 +6,7 @@ tags:
 description: "KI im Marketing: 3 Experten bewerten Chancen und Risiken. Und stellen dir 3 zentrale Prinzipien vor, um künstliche Intelligenz ethisch verantwortlich im Marketing zu nutzen."
 date: 2024-11-18
 ---
-2025: Künstliche Intelligenz (KI; treffender: maschinelles Lernen) ist aus dem [[Marketing]] kaum noch wegzudenken. Die Hoffnung: Mit neuen KI-Systeme sollen Unternehmen vollautomatisch und kostengünstig Kund_innen erreichen und beeinflussen.
+2025: Künstliche Intelligenz (KI; treffender: maschinelles Lernen) ist aus dem [[Marketing]] kaum noch wegzudenken. Die Hoffnung: Mit neuen KI-Systemen sollen Unternehmen vollautomatisch und kostengünstig Kund_innen erreichen und beeinflussen.
 
 Doch die Vorhersagen über KI sind eher unterschiedlich. 
 
@@ -19,15 +19,15 @@ Andere sorgen sich um die Zukunft der Demokratie: Aktuelle gesellschaftliche Tre
 **In der Debatte rund um maschinelles Lernen im Marketing kristallisieren sich zwei Extreme heraus:**
 
 - Viele skeptische Marketing-Profis greifen auf bewährte manuelle oder automatisierte Prozesse ohne KI zurück und warten erst einmal ab.
-- Influencer_innen und die, die  es werden wollen, veröffentlichen hingegen LinkedIn-Posts und Blogartikel, in denen sie maschinelles Lernen zum Nonplusultra deklarieren. Nach dem Motto: „Bald brauchen wir keine Texter_innen mehr, ChatGPT schreibt all unseren Content!“
+- Influencer_innen und die, die es werden wollen, veröffentlichen hingegen LinkedIn-Posts und Blogartikel, in denen sie maschinelles Lernen zum Nonplusultra deklarieren. Nach dem Motto: „Bald brauchen wir keine Texter_innen mehr, ChatGPT schreibt all unseren Content!“
 
 ## 3 KI-Experten. 3 Perspektiven. 3 Prinzipien.
 
 Wie so oft bieten die Extreme kaum Orientierung für fundierte Entscheidungen. Daher haben wir drei KI-Experten befragt:
 
 1. **Michael Mörike**, [Vorstand der Integrata-Stiftung für humane Nutzung der Informationstechnologie.](https://integrata-stiftung.de/ueber-uns/stifter/moerike/) Als Informatikpionier richtete er schon 1969 Prozessrechner für die Uni Tübingen ein. Seitdem war er in der Geschäftsführung verschiedener Unternehmen sowie als freiberuflicher Projektleiter tätig. Heute setzt er sich maßgeblich für die Verbreitung von Kenntnissen über die Grundlagen zu „Ethik und KI“ ein.
-2. **Dr. Ingmar Schuster**, [CEO & Co-Founder von Exazyme](https://exazyme.com/). Das deutsche Startup nutzt KI, um den Prozess des Protein-Engineering in der Pharma- und Biotechnologie-Branche zu vereinfachen und beschleunigen.
-3. **Dylan Thompson**, [Co-Founder und Head of Product & Design bei Balloonary](https://www.balloonary.com/). Das luxemburgische Marketing-Startup sieht sich als Self-Service-Werbeagentur mit KI-Autopilot für KMUs und Solo-Selbstständige.
+2. **Dr. Ingmar Schuster**, [CEO & Co-Founder von Exazyme](https://exazyme.com/). Das deutsche Start-up nutzt KI, um den Prozess des Protein-Engineering in der Pharma- und Biotechnologie-Branche zu vereinfachen und beschleunigen.
+3. **Dylan Thompson**, [Co-Founder und Head of Product & Design bei Balloonary](https://www.balloonary.com/). Das luxemburgische Marketing-Start-up sieht sich als Self-Service-Werbeagentur mit KI-Autopilot für KMUs und Solo-Selbstständige.
 
 Gemeinsam bringen wir Licht ins Thema – und stellen dir 3 zentrale Prinzipien vor, um maschinelles Lernen ethisch verantwortlich im Marketing zu nutzen.
 
@@ -45,7 +45,7 @@ Laut Ingmar Schuster haben wir es „nicht mit Magie zu tun, sondern mit Mathe�
 > 
 > Das ist schon bei einfachen Werkzeugen so – Messer und Hammer sind unheimlich praktisch im Alltag, aber können auch als Mordwaffe benutzt werden.
 > 
-> KI ist eine absolute Schlüsseltechnologie. Wir können sie nicht einfach zurück in eine Kiste stecken und hoffen nichts passiert. Wir müssen während der Benutzung lernen. Und wir werden dabei Fehler machen.
+> KI ist eine absolute Schlüsseltechnologie. Wir können sie nicht einfach zurück in eine Kiste stecken und hoffen, dass nichts passiert. Wir müssen während der Benutzung lernen. Und wir werden dabei Fehler machen.
 > 
 > Sehr konkret: Es ist legitim, mit KI Medikamente zu entwickeln. Aber mit der gleichen KI, die therapeutische Wirkung eines Medikaments maximiert und Toxizität minimiert, kann man auch ein Gift herstellen. Man muss dafür nur eine Zahl mit -1 multiplizieren, und das ist absolut wörtlich gemeint. Das könnte illegitim sein – aber auch dafür gibt es Anwendungen wie Sterbehilfe, die zum Beispiel in der Schweiz erlaubt ist.
 
@@ -80,13 +80,13 @@ Du brauchst nicht gleich Computer Science zu studieren. Doch mit einem grundlege
 
 „Intelligenz ohne Körper, ohne eigene Erfahrungen mit der Umwelt ist kaum möglich“, urteilte Markus Knauff, Professor für Psychologie und Kognitionsforschung an der Universität Gießen, 2020 in [Psychologie Heute](https://www.psychologie-heute.de/gesellschaft/artikel-detailansicht/40402-die-maer-von-der-superintelligenz.html). „Und Intelligenz ohne echtes Wissen über die Welt, ohne die Möglichkeit, etwas als wahr oder falsch, als Ursache oder Wirkung zu erkennen, ist kaum vorstellbar.“
 
-Dies *echte* Wissen, die eigenen körperlichen Erfahrungen steht KI nach wie vor nur über Umwege zur Verfügung: durch von Menschen erdachte Sensoren, durch menschliches Feedback – oder als Text, Foto, Video im Trainings-Datenpool. Letzterer ist häufig nicht auf Echtheit oder Repräsentativität hin optimiert. 
+Dies *echte* Wissen, eigene körperliche Erfahrungen, stehen KI nach wie vor nur über Umwege zur Verfügung: durch von Menschen erdachte Sensoren, durch menschliches Feedback – oder als Text, Foto, Video im Trainings-Datenpool. Letzterer ist häufig nicht auf Echtheit oder Repräsentativität hin optimiert. 
 
 Die Folge: 
 
 - Fakt, Falschinformation und Fiktion werden gleichberechtigt beim Training genutzt. 
 - Wer keine Cookies akzeptiert oder Inhalte veröffentlicht, bleibt für die Algorithmen unsichtbar. 
-- Gesellschaftliche Schieflagen werden unkritisch reproduziert, wenn die KI nicht explizit antirassistisch, antisexistisch usw. konzipiert wurde. 
+- Gesellschaftliche Schieflagen werden unkritisch reproduziert, wenn die KI nicht explizit antirassistisch, antisexistisch und inklusiv konzipiert wurde. 
 
 Knauff zitiert die bekannte Redensart: _garbage in, garbage out_. „Wo du Müll hineinsteckst, kommt auch Müll heraus.“
 
@@ -110,7 +110,7 @@ Deswegen ist es äußerst unwahrscheinlich, dass KI jemals menschliche Designer_
 
 Da spiele es auch keine Rolle, ob KI-generierte Inhalte für Suchmaschinen optimiert seien. Denn es gebe bereits für einen Großteil der Keywords viel mehr optimierte Webseiten als Suchanfragen. KI-Tools mögen zusätzliche, optimierte Inhalte erstellen – aber Google sei ohnehin dabei, den Algorithmus und damit die Suchergebnisse stetig zu verbessern. Dabei stehen Qualitätsmerkmale wie die Urhebermarke, Zitate und Verlinkungen oder Aktivität in sozialen Medien im Vordergrund. Und die sind allesamt außer Reichweite von KI.
 
-**Zusammengefasst: Je klarer ihr euch darüber seid, wo die Grenzen eurer KI-Nutzung im Marketing liegen, um so eher werdet ihr damit Erfolge sehen.** Orientiert euch an der 80-20-Regel: KI kann uns 20 % des Aufwands abnehmen. 80 % der gedanklichen Vorarbeit, Strategien und Inhalte müssen von Menschen kommen, damit KI überhaupt sinnvoll arbeiten kann.
+**Zusammengefasst:** ==Je klarer ihr euch darüber seid, wo die Grenzen eurer KI-Nutzung im Marketing liegen, um so eher werdet ihr damit Erfolge sehen. Orientiert euch an der 80-20-Regel: KI kann uns 20 % des Aufwands abnehmen. 80 % der gedanklichen Vorarbeit, Strategien und Inhalte müssen von Menschen kommen, damit KI überhaupt sinnvoll arbeiten kann.==
 
 > [!info]- **Tipp: „Tiny Tests“ als sichere KI-Sandbox**
 > 
