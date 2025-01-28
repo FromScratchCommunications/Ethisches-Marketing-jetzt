@@ -6,7 +6,7 @@ tags:
 description: "KI im Marketing: 3 Experten bewerten Chancen und Risiken. Und stellen dir 3 zentrale Prinzipien vor, um künstliche Intelligenz ethisch verantwortlich im Marketing zu nutzen."
 date: 2024-11-18
 ---
-Ende 2024: Künstliche Intelligenz (KI; treffender: maschinelles Lernen) ist aus dem [[Marketing]] kaum noch wegzudenken. Die Hoffnung: Mit neuen KI-Systeme sollen Unternehmen vollautomatisch und kostengünstig Kund_innen erreichen und beeinflussen.
+2025: Künstliche Intelligenz (KI; treffender: maschinelles Lernen) ist aus dem [[Marketing]] kaum noch wegzudenken. Die Hoffnung: Mit neuen KI-Systeme sollen Unternehmen vollautomatisch und kostengünstig Kund_innen erreichen und beeinflussen.
 
 Doch die Vorhersagen über KI sind eher unterschiedlich. 
 
