@@ -42,4 +42,4 @@ Damit euer Unternehmen eurem Publikum auf Augenhöhe begegnet und nicht feindlic
 - [[Daten schützen & sich beim Marketing drauf stützen |evidenzbasiertes Marketing anwenden]], ohne das Menschenrecht auf Privatsphäre zu gefährden
 - [[Künstliche Intelligenz als Werkzeug im ethischen Marketing|Grenzen und Chancen von KI im Marketing ausloten]]
 - [[SEO und Conversion-Rate-Optimierung ethisch einsetzen|an den Beispielen SEO und Conversion-Rate-Optimierung nachvollziehen, wie ethisches Marketing praktisch funktioniert.]]
-- Tools auswählen, die euch helfen, die Privatsphäre eurer Kundschaft zu schützen.
+- [[Toolbox zu Kapitel 3 |Tools auswählen, die euch helfen, die Privatsphäre eurer Kundschaft zu schützen]].

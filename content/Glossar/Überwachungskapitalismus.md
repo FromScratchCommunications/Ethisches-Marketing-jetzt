@@ -8,7 +8,7 @@ date: 2024-08-12
 ---
 Die Wirtschaftswissenschaftlerin Shoshana Zuboff prägte 2014 den Begriff des Überwachungskapitalismus. Damit beschreibt sie sowohl unser sozialökonomisches System als auch das Geschäftsmodell vieler erfolgreicher Unternehmen unserer Zeit – wie Meta oder Google.
 
-## Einige Kennzeichen des Überwachungskapitalismus anno 2024:
+## Einige Kennzeichen des Überwachungskapitalismus anno 2025:
 
 - Daten und Informationen liegen auf Servern, die wenigen Unternehmen gehören.
 - Wir können nur eingeschränkt über unsere eigenen Daten verfügen. 
