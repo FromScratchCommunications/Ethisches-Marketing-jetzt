@@ -59,7 +59,7 @@ Googles Antwort auf den scheinbaren Widerspruch:
 
 Begründung des Unternehmens: **Präzision ist überbewertet**, selbst in der Online-Werbung. Vor allem, wenn man vor lauter Präzision den Wald nicht mehr sieht – und keine Handlungsanweisung fürs Marketing ableiten kann.
 
-Was das für den Daten- und Werbekonzern konkret bedeutet, wird sich ab 2025 zeigen. Ab dann [sollen Chrome-Nutzende nach Googles Aussage vor die Wahl gestellt werden](https://privacysandbox.com/news/privacy-sandbox-update/), wie sie mit Drittpartei-Cookies umgehen wollen.
+Was das für den Daten- und Werbekonzern konkret bedeutet, wird sich 2025 zeigen. [Chrome-Nutzende sollen nach Googles Aussage vor die Wahl gestellt werden](https://privacysandbox.com/news/privacy-sandbox-update/), wie sie mit Drittpartei-Cookies umgehen wollen.
 
 Die genannten Prinzipien eignen sich aber seit Jahren als Fundament für ein datengestütztes Marketing, das ethischen Ansprüchen genügt.
 
@@ -67,7 +67,7 @@ Die genannten Prinzipien eignen sich aber seit Jahren als Fundament für ein dat
 
 Eine [Forrester-Studie für Precis Digital](https://www.thedrum.com/news/2023/05/10/consumers-want-more-their-data-private-how-should-agencies-and-brands-respond) von 2022 stellte fest: 79 % der Unternehmensleitungen halten den Privacy-First-Ansatz für die Zukunft. Dr. Ann Cavoukian schuf den Begriff in den 1990er-Jahren in Zusammenarbeit mit Datenschutzbehörden weltweit.
 
-Datenschutz-Fachperson [Maria Arango Kure fasst in ihrem Blogartikel den Kern dieses Ansatzes zusammen](https://doingwellandgood.com/privacy/privacy-by-design/) (unsere Übersetzung):
+Datenschutz-Fachperson [Maria Arango Kure fasst auf deren Website den Kern dieses Ansatzes zusammen](https://doingwellandgood.com/commitment/privacy/privacy-by-design/) (unsere Übersetzung):
 
 - **Menschen haben ein Recht, über ihre Daten zu bestimmen.** Organisationen sind ihnen gegenüber rechenschaftspflichtig. Dazu ist es nötig, mit Fragen des Datenschutzes transparent und ehrlich umzugehen. Außerdem gibt [[menschenzentriertes Design]] den Nutzenden das Zepter in die Hand. Sie können frei entscheiden, was mit ihren Daten geschieht.
 - **Es reicht nicht, sich an den Buchstaben des Gesetzes entlang zu hangeln.** Organisationen müssen Risiken vorhersehen und darauf reagieren, bevor Datenlecks entstehen. Der Schutz der Privatsphäre muss integraler Bestandteil der Gestaltung des Geschäftsmodells, von Inhalten und Angeboten sein. Nur so entkommen wir dem Mythos vom Nullsummenspiel: Datenschutz und andere wichtige Ziele wie eine gute UX oder Geschäftserfolg schließen einander nicht aus.
