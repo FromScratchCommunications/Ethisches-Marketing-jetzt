@@ -6,11 +6,11 @@ tags:
 description: "Marketing optimieren – auf ethische Art: Finde heraus, wie dir SEO und Conversion-Rate-Optimierung dabei helfen. Inklusive kostenfreiem Arbeitsblatt zum Download."
 date: 2024-11-28
 ---
-„Alles schmutzige Tricks“: Dieser Ruf eilt sowohl der Suchmaschinenoptimierung (SEO) voraus als auch dem Perfektionieren von Marketinginhalten, sodass Menschen gewünschte Handlungen ausführen (Conversion-Rate-Optimierung, CRO). Nicht zu Unrecht, denn in beiden Bereichen tummeln sich zwielichtige Praktiken. Die Spanne reicht von spammigem Linkaufbau über gefälschte Bewertungen der Konkurrenz bis zu erfundenen Preisnachlässen.
+„Alles schmutzige Tricks“: Dieser Ruf eilt sowohl der Suchmaschinenoptimierung (SEO) voraus als auch dem Perfektionieren von Marketinginhalten, sodass Menschen gewünschte Handlungen ausführen ([[Conversion]]-Rate-Optimierung, CRO). Nicht zu Unrecht, denn in beiden Bereichen tummeln sich zwielichtige Praktiken. Die Spanne reicht von spammigem Linkaufbau über gefälschte Bewertungen der Konkurrenz bis zu erfundenen Preisnachlässen.
 
 Ganz klar: Das gute Leben sieht für die meisten Marketing-Leute anders aus. Große Plattformen wie Google stimmen zu und strafen seit Jahren solche „Black-Hat-Techniken“ ab.
 
-Seriöse SEO und CRO hingegen sind ethisch meistens unbedenklich. Vor allem, wenn sie strategisch eingebettet und von praktischer Integrität flankiert sind.
+Seriöse SEO und CRO hingegen sind ethisch meistens unbedenklich. Vor allem, wenn sie strategisch eingebettet und von [[Praktische Integrität – Grundlage für ethisches Marketing |praktischer Integrität]] Integrität flankiert sind.
 
 ## Worin unterscheiden sich SEO und Conversion-Rate-Optimierung?
 
@@ -61,7 +61,7 @@ Das macht SEO und CRO zu perfekten Partnern: SEO bringt euch eine Menge Besucher
 
 Und auch die Methoden wirken prima zusammen.
 
-### – Ob Suchmaschine oder Conversion: Wir optimieren immer für Menschen
+### Ob Suchmaschine oder Conversion: Wir optimieren immer für Menschen
 
 Da sind sich SEO und CRO einig: Websites, E-Mails und andere Inhalte müssen in erster Linie beim Publikum gut ankommen und ein reibungsloses Erlebnis ermöglichen. Ist das der Fall, steigen Conversion Rates und Rankings quasi von alleine. Frei nach dem NFL-Trainer Bill Walsh: „The score takes care of itself“ – wenn wir das Richtige tun, stellen sich Erfolg von selbst ein.
 
@@ -81,7 +81,7 @@ SEO-Experte Alexander Holl gibt [Beispiele](https://www.121watt.de/seo/was-ist-s
 > 
 > Snippetoptimierung → Analyse der wichtigsten USPs
 
-### – Gründliche Recherche steht am Beginn jeder Optimierung
+### Gründliche Recherche steht am Beginn jeder Optimierung
 
 Unsere ehemalige From Scratch Expertin für Lektorat Nadine Stelzer vermisst in vielen Marketingtexten die [Authentizität](https://from-scratch.net/de/insights/publikumswirksam-schreiben-mit-empathie/):
 
@@ -97,7 +97,7 @@ Der Google-Startleitfaden gibt ein [Beispiel aus dem Fußball-Bereich](https://d
 > 
 > Nutzer, die viel über ein Thema wissen, verwenden in ihren Suchanfragen wahrscheinlich andere Keywords als jemand, der mit dem Thema noch nicht vertraut ist. Ein langjähriger Fußballfan [Anm. d. Autor_innen: „Profi“] könnte zum Beispiel nach „FIFA“ suchen, dem Akronym für die Fédération Internationale de Football Association, während ein neuer Fan [Anm. d. Autor_innen: „Neuling“] womöglich eine allgemeinere Suchanfrage wie „Fußball-Finale“ eingibt. Wenn du diese Unterschiede im Suchverhalten kennst und sie beim Schreiben deiner Inhalte – mit einer guten Mischung von Keyword-Wortgruppen – berücksichtigst, kannst du gute Ergebnisse erzielen.
 
-### – Mikro-Conversions sind eine ausgezeichnete Richtschnur für ethische Zielvorgaben
+### Mikro-Conversions sind eine ausgezeichnete Richtschnur für ethische Zielvorgaben
 
 Beide Disziplinen nutzen Mikro-Conversions wie diese, um den Erfolg ihrer Arbeit zu messen:
 

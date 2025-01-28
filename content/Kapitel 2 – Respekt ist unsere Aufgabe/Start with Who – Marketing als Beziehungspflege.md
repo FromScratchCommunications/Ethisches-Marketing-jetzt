@@ -131,4 +131,4 @@ In seinem Blogartikel [Copywriting Basics: So schraubst du die Conversions nach 
 
 ## Wie soll's weitergehen?
 
-[[Reduziert Barrieren, zieht mehr Menschen an |Mach euer Marketing inklusiver]] oder stöbere direkt in der [[Toolbox zu Kapitel 2]].
+[[„Wollt ihr das totale Marketing?“|Schützt beim Marketing die Privatsphäre eures Publikums]] oder stöbere direkt in der [[Toolbox zu Kapitel 2]].
