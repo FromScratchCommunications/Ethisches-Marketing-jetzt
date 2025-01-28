@@ -1,6 +1,6 @@
 ---
 title: Transparenz-Prinzip (Publicity Principle)
-draft: true
+draft: false
 enableToc: false
 tags: 
 description: Das Transparenz-Prinzip des US-amerikanischen Philosophen John Rawls (1971) beruht auf seinem Verständnis von Gesellschaft und sozialer Gerechtigkeit. In diesem Leitfaden wenden wir dieses Konzept ganz praktisch auf Entscheidungen im Marketing an.
