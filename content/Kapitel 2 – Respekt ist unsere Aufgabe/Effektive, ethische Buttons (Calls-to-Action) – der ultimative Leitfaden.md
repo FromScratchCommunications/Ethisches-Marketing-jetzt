@@ -346,4 +346,4 @@ Das Beste: Sie kommen sowohl eurem Unternehmen als auch eurem Publikum zugute.
 
 ## Wie soll's weitergehen?
 
-Stöbere direkt in der [[Toolbox zu Kapitel 2]] oder melde dich für [[Updates & in Planung |Updates]] an. Dann informieren wir dich, wenn das nächste Kapitel zum Thema Datenschutz und Überwachungskapitalismus rauskommt.
+Stöbere direkt in der [[Toolbox zu Kapitel 2]] oder melde dich für [[Updates & in Planung |Updates]] an. Dann informieren wir dich, wenn das nächste Kapitel zum Thema Datenschutz und [[Überwachungskapitalismus]] rauskommt.
