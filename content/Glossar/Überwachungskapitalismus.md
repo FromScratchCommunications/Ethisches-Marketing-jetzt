@@ -1,6 +1,6 @@
 ---
 title: Überwachungskapitalismus
-draft: true
+draft: false
 enableToc: false
 tags: 
 description: Wirtschaftswissenschaftlerin Shoshana Zuboff prägte 2014 den Begriff des Überwachungskapitalismus. Damit beschreibt sie sowohl unser sozialökonomisches System als auch das Geschäftsmodell vieler erfolgreicher Unternehmen.
