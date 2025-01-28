@@ -163,7 +163,7 @@ Deshalb ist es so wichtig, dass Unternehmen mehr antreibt als Profit. Michael M�
 
 Unsere freiheitlich-demokratische Grundordnung setzt den moralischen und gesetzlichen Rahmen. Doch KI hat das Potenzial, diese Grundordnung anzugreifen. Wenn ihre Ziele nicht dem Gemeinwohl dienen, muss das nicht die Absicht der Nutzenden sein: Sie wurde vielleicht wertfrei, rein auf finanzielle Erfolgsquoten hin, trainiert.
 
-In der EU und in Deutschland wird deshalb über Regulierung gesprochen. Werte und Prinzipien wie wahrheitsgemäße Werbung, ein Verbot diskriminierender Zielsetzungen und Datenschutz sollten auch für KI gelten. Aufgrund der Komplexität von KI wird auch ihre Anwendung komplexer. Beispielsweise berichtet [The Drum](https://www.thedrum.com/opinion/2023/05/09/there-s-regulatory-reckoning-coming-ai-s-use-digital-advertising "https://www.thedrum.com/opinion/2023/05/09/there-s-regulatory-reckoning-coming-ai-s-use-digital-advertising"), dass Muster-Daten und Informationen zu einzelnen Nutzer_innen extrem umfangreiche Datensätze ergeben. Mit deren Hilfe könne man individuell vorhersagen, in welchen Szenarien eine Kampagne für sie relevant ist. Qualifizierten diese Vorhersagen automatisch, wem ein Unternehmen welche Angebote macht, stelle sich die Frage nach Inklusion. Wen schließen wir systematisch aus – womöglich, ohne es zu wissen?
+In der EU und in Deutschland wird deshalb über Regulierung gesprochen. Werte und Prinzipien wie wahrheitsgemäße Werbung, ein Verbot diskriminierender Zielsetzungen und Datenschutz sollten auch für KI gelten. Aufgrund der Komplexität von KI wird auch ihre Anwendung komplexer. Beispielsweise berichtet [*The Drum*](https://www.thedrum.com/opinion/2023/05/09/there-s-regulatory-reckoning-coming-ai-s-use-digital-advertising "https://www.thedrum.com/opinion/2023/05/09/there-s-regulatory-reckoning-coming-ai-s-use-digital-advertising"), dass Muster-Daten und Informationen zu einzelnen Nutzer_innen extrem umfangreiche Datensätze ergeben. Mit deren Hilfe könne man individuell vorhersagen, in welchen Szenarien eine Kampagne für sie relevant ist. Qualifizierten diese Vorhersagen automatisch, wem ein Unternehmen welche Angebote macht, stelle sich die Frage nach Inklusion. Wen schließen wir systematisch aus – womöglich, ohne es zu wissen?
 
 > [!info]- **Tipp: Setzt bewusste Rahmenbedingungen für den Einsatz von KI**
 > 
@@ -204,7 +204,8 @@ KI-Anbieter wollen selbstverständlich ihr intellektuelles Eigentum schützen. D
 > 
 > Ingmar Schuster rät zusätzlich, 
 > 
-> > nicht bei Anbietern zu kaufen, die keine Modelle selbst entwickeln. Die versuchen vermutlich nur auf der Welle zu reiten und sind schnell wieder verschwunden. Und es wäre gut, wenn im Team des Anbieters echte Expert_innen arbeiten. Ein paar Leute, die in Mathe / Statistik / Informatik / Physik promoviert oder wissenschaftliche Papiere veröffentlicht haben sind im Moment schon noch ein guter Ausweis dafür.
+> > nicht bei Anbietern zu kaufen, die keine Modelle selbst entwickeln. Die versuchen vermutlich nur auf der Welle zu reiten und sind schnell wieder verschwunden. 
+> > Und es wäre gut, wenn im Team des Anbieters echte Expert_innen arbeiten. Ein paar Leute, die in Mathe / Statistik / Informatik / Physik promoviert oder wissenschaftliche Papiere veröffentlicht haben sind im Moment schon noch ein guter Ausweis dafür.
 
 > [!example]- **Beispiel: Balloonary**
 > 
