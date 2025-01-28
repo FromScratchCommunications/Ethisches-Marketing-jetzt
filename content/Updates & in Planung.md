@@ -33,6 +33,7 @@ Ethisches Marketing Bingo
 
 - Stages of Awareness
 - Purpose
+- menschenzentriertes Design
 
 ***
 

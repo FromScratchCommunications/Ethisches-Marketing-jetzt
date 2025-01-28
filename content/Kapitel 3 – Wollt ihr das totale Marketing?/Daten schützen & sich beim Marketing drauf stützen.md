@@ -69,12 +69,12 @@ Eine [Forrester-Studie für Precis Digital](https://www.thedrum.com/news/2023/05
 
 Datenschutz-Fachperson [Maria Arango Kure fasst auf deren Website den Kern dieses Ansatzes zusammen](https://doingwellandgood.com/commitment/privacy/privacy-by-design/) (unsere Übersetzung):
 
-- **Menschen haben ein Recht, über ihre Daten zu bestimmen.** Organisationen sind ihnen gegenüber rechenschaftspflichtig. Dazu ist es nötig, mit Fragen des Datenschutzes transparent und ehrlich umzugehen. Außerdem gibt [[menschenzentriertes Design]] den Nutzenden das Zepter in die Hand. Sie können frei entscheiden, was mit ihren Daten geschieht.
+- **Menschen haben ein Recht, über ihre Daten zu bestimmen.** Organisationen sind ihnen gegenüber rechenschaftspflichtig. Dazu ist es nötig, mit Fragen des Datenschutzes transparent und ehrlich umzugehen. Außerdem gibt menschenzentriertes Design den Nutzenden das Zepter in die Hand. Sie können frei entscheiden, was mit ihren Daten geschieht.
 - **Es reicht nicht, sich an den Buchstaben des Gesetzes entlang zu hangeln.** Organisationen müssen Risiken vorhersehen und darauf reagieren, bevor Datenlecks entstehen. Der Schutz der Privatsphäre muss integraler Bestandteil der Gestaltung des Geschäftsmodells, von Inhalten und Angeboten sein. Nur so entkommen wir dem Mythos vom Nullsummenspiel: Datenschutz und andere wichtige Ziele wie eine gute UX oder Geschäftserfolg schließen einander nicht aus.
 - **Datenschutz sollte in allen Organisationen der Standard-Modus sein.** Das bedeutet, dafür zu sorgen, dass Nutzende keinerlei Maßnahmen zu ergreifen brauchen, um ihre Daten zu schützen. Daten werden von vornherein auf sichere Art erhoben, sicher verarbeitet und sicher gelöscht.
 
 > [!todo]- **Checkliste: Marias Prüfsteine für euer datengestütztes Marketing**
-> Beantworte diese Fragen ausgehend von eurem Intention Stack und eurer Marketing-Strategie:
+> Beantworte diese Fragen ausgehend von eurem [[Intention Stack]] und eurer Marketing-Strategie:
 > 
 > - Welche Daten braucht dein Unternehmen unbedingt, um die Strategie umzusetzen?
 > - Welche Daten hättet ihr gerne zusätzlich?
@@ -88,7 +88,7 @@ Diese Haltung weist über ein reines Opt-In hinaus. Legitimes Interesse reicht b
 
 Einladungsbasiertes Marketing funktioniert nur in intakten Beziehungen zwischen Marke und Publikum. Vertrauenswürdiges Verhalten bringt eurem Unternehmen also mehr als Loyalität und einen exzellenten Ruf. Auch so genannte First Party Data stehen euch umfassender zur Verfügung: Menschen geben eher ihre Kontaktdaten preis, nehmen an Umfragen teil oder melden sich zu Recherche-Interviews. Zugleich verfälschen weniger Fake-Daten den Info-Pool. Wer auf derart qualitativ hochwertige Daten zugreifen kann, hat alle Zutaten für erfolgreiches Marketing.
 
-Und doch hinkt die Marketingbranche der Praxis vielerorts hinterher. So sagte Laura Kell, Chief Data & Product Officer bei Havas Media Group, der Branchenzeitschrift [The Drum](https://www.thedrum.com/news/2023/05/10/consumers-want-more-their-data-private-how-should-agencies-and-brands-respond) (unsere Übersetzung):
+Und doch hinkt die Marketingbranche der Praxis vielerorts hinterher. So sagte Laura Kell, Chief Data & Product Officer bei Havas Media Group, der Branchenzeitschrift [*The Drum*](https://www.thedrum.com/news/2023/05/10/consumers-want-more-their-data-private-how-should-agencies-and-brands-respond) (unsere Übersetzung):
 
 > Die Branche orientiert sich oft daran, was man mit Daten machen kann: wie wir mit gewissen Praktiken davon kommen. Stattdessen sollten wir für einen Umgang mit Daten sorgen, der auf ordnungsgemäßer Nutzungserlaubnis beruht. ... Agenturklient_innen sollten die Absicht hinter den Regeln respektieren, statt Gesetze buchstabengetreu umzusetzen.
 
