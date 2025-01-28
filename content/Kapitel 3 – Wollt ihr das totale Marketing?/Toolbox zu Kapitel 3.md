@@ -25,11 +25,10 @@ Kurzum: Datenschutz und Performance-Marketing zu vereinen, ist nicht nur wünsch
 ### Zum Thema Datenschutz und Targeting
 
 - Arango Kure, Maria: [Brand Equity and Data Privacy: Beyond Selling Eyeballs: A business case for online privacy-friendly data practices in regions covered by the GDPR.](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1675738&dswid=4409) Bachelor Thesis. Jönköping University, School of Engineering, JTH, Department of Computer Science and Informatics, 2022.
-- Dies.: [Privacy by Design.](https://doingwellandgood.com/privacy/privacy-by-design/) 21. November 2021.
+- Dies.: [Privacy by Design.](https://doingwellandgood.com/commitment/privacy/privacy-by-design/) 21. November 2021.
 - Data for Black Lives: [Data Capitalism.](https://datacapitalism.d4bl.org/) (ohne Datum)
 - EDRI European Digital Rights: [kurz&mündig: Faire Websites](https://shop.digitalcourage.de/kurz-und-muendig-edri-ethical-web-faire-websites-ethical-web-dev.html) | ethical web dev.
 - Godin, Seth: [Permission Marketing.](https://seths.blog/2008/01/permission-mark/) 31. Januar 2008.
-- Maak, Niklas: [Holt Euch Eure Daten zurück! Interview mit Francesca Bria.](https://zeitung.faz.net/faz/feuilleton/2020-10-19/8dfcdd86124f6390f3d993a12e9efe81/) Feuilleton der Frankfurter Allgemeinen Zeitung vom 19.10.2020.
 
 **Moritz Orendts Blog ist eine kleine Goldgrube zum Thema. Hier eine Auswahl wertvoller Beiträge:**
 
@@ -37,7 +36,7 @@ Kurzum: Datenschutz und Performance-Marketing zu vereinen, ist nicht nur wünsch
 - Ders.: [Behavioral Targeting: Wenig rentabel und moralisch fragwürdig.](https://moritzorendt.com/behavioral-targeting/) 20. Januar 2021.
 - Ders.: [Performance Marketing und Datenschutz muss kein Widerspruch sein.](https://moritzorendt.com/performance-marketing-datenschutz) 7. Oktober 2020.
 
-- The Drum: [Data Deep Dive.](https://www.thedrum.com/topics/data-deep-dive) 6. April-30. Mai 2023.
+- *The Drum*: [Data Deep Dive.](https://www.thedrum.com/topics/data-deep-dive) 6. April-30. Mai 2023.
 - Schulze, Matthias: [Desinformation: Vom Kalten Krieg zum Informationszeitalter.](https://www.bpb.de/themen/medien-journalismus/digitale-desinformation/290487/desinformation-vom-kalten-krieg-zum-informationszeitalter/) Bundeszentrale für politische Bildung, 2. Mai 2019.
 - Wikipedia: [Informationeller Kapitalismus.](https://de.wikipedia.org/wiki/Informationeller_Kapitalismus) Zuletzt aufgerufen am 9. Juni 2023.
 
@@ -53,11 +52,11 @@ Kurzum: Datenschutz und Performance-Marketing zu vereinen, ist nicht nur wünsch
 - Carta, Giulia: [Black Hat SEO: 12 SEO-Techniken, die Sie vermeiden sollten.](https://business.trustedshops.de/blog/black-hat-seo) Trusted Shops Blog, 26. Oktober 2021.
 - Harnau, Sabine: [Was ist Conversion Copywriting – und wozu ist es gut?](https://www.linkedin.com/pulse/ist-conversion-copywriting-und-wozu-es-gut-sabine-harnau) LinkedIn, 16. Januar 2023.
 - Harnau, Sabine und Laura Filz: [SEO-Texte vs. Conversion Copywriting: Was braucht mein Business?](https://from-scratch.net/de/seo-vs-conversion-copywriting/) From Scratch Blog (ohne Datum).
-- Harnau, Sabine und Nadine Stelzer: [Durch Umfragen eure Kundschaft besser verstehen: So geht’s.](https://from-scratch.net/de/umfragen-kundschaft-verstehen/) From Scratch Blog (ohne Datum).
-- Harnau, Sabine und Nadine Stelzer: [Kundenbewertungen sinnvoll einsetzen.](https://from-scratch.net/de/kundenbewertungen-sinnvoll-einsetzen/) From Scratch Blog (ohne Datum).
+- Harnau, Sabine und Nadine Stelzer: [Durch Umfragen eure Kundschaft besser verstehen: So geht’s.](https://from-scratch.net/de/blog/umfragen-kundschaft-verstehen/) From Scratch Blog (ohne Datum).
+- Harnau, Sabine und Nadine Stelzer: [Kundenbewertungen sinnvoll einsetzen.](https://from-scratch.net/de/blog/kundenbewertungen-sinnvoll-einsetzen/) From Scratch Blog (ohne Datum).
 - Pecánek, Michal: [Wie du negative SEO-Angriffe erkennst (und abwehrst).](https://ahrefs.com/blog/de/negative-seo/) Ahrefs Blog, 28. Januar 2022.
 - Schüttler, Amei: [Ist SEO-Betrug ein Zeichen der Unwissenheit?](https://www.business-echo.de/aktuell/digitale-wirtschaft/ist-seo-betrug-ein-zeichen-der-unwissenheit/) Business-Echo (ohne Datum).
-- Stelzer, Nadine: [SEO-Consultant Laura Filz: SEO-Texte für Zielgruppen schreiben und von Suchmaschinen gefunden werden.](https://from-scratch.net/de/seo-podcast-mit-consultant-laura-filz/) From Scratch Blog (ohne Datum).
+- Stelzer, Nadine: [SEO-Consultant Laura Filz: SEO-Texte für Zielgruppen schreiben und von Suchmaschinen gefunden werden.](https://from-scratch.net/de/blog/seo-podcast-mit-consultant-laura-filz/) From Scratch Blog (ohne Datum).
 
 ## Tools und Software
 
@@ -85,7 +84,7 @@ Datenschutzfreundliche Alternativen zu bekannten Software-Plattformen sind keine
 - Die Plattform [Plausible](https://plausible.io/) ermöglicht den Import eurer bestehenden Google-Analytics-Daten. Sie zeigt unter anderem Bounce-Rates an – nicht alle alternativen Analytics-Tools können das.
 - Auch bei [Fathom Analytics](https://usefathom.com/) könnt ihr Google-Analytics-Daten hochladen. Das Tool aus Kanada ist leicht zu bedienen, und europäischer Traffic wird automatisch durch Europäische Infrastruktur geleitet.
 - [Simple Analytics](https://www.simpleanalytics.com/de) bietet eine (maschinell übersetzte) deutschsprachige Fassung an. Die Firma sitzt in der EU, Google-Analytics-Daten lassen sich importieren und es gibt eine Smartphone-Version des Dashboards.
-- Bei [Cabin Analytics](https://withcabin.com/) kommt Privatsphäre zuerst. Dieses Tool trackt außerdem den CO2-Fußabdruck eurer Website. Allerdings ist es derzeit nicht möglich, historische Daten aus Google Analytics zu importieren (Stand April 2023).
+- Bei [Cabin Analytics](https://withcabin.com/) kommt Privatsphäre zuerst. Dieses Tool trackt außerdem den CO2-Fußabdruck eurer Website. Allerdings ist es derzeit nicht möglich, historische Daten aus Google Analytics zu importieren (Stand Januar 2025).
 
 #### Speziell fürs E-Mail-Marketing
 
