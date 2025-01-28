@@ -47,11 +47,11 @@ Das spiegelt sich auch in manchen Kennzahlen wieder, die in SEO und CRO genutzt 
 > - Absprungrate: Wie viele Nutzer:innen verlassen deine Website wieder, nachdem sie eine Seite aufgerufen haben?
 > - Organischer Traffic: Wie viele Besucher:innen landen ohne das Schalten von Werbeanzeigen über Suchmaschinen auf deiner Website?
 
-Ein weiterer wichtiger Unterschied: Bei genug Traffic erzielt CRO sehr schnell Ergebnisse. Deutliche Conversion-Steigerungen innerhalb von 6 Wochen sind durchaus möglich.
+Ein weiterer wichtiger Unterschied: ==Bei genug Traffic erzielt CRO sehr schnell Ergebnisse. Deutliche Conversion-Steigerungen innerhalb von 6 Wochen sind durchaus möglich.==
 
-Allerdings sprechen seriöse CRO-Fachleute keine Erfolgsgarantien aus. Trotz der besten Vorbereitung kann es passieren, dass eine Maßnahme sich negativ auf die Conversion Rate auswirkt. Daraus gilt es zu lernen — auch das gehört zum wissenschaftlich-experimentellen Charakter von Conversion-Rate-Optimierung. Bei From Scratch nennen wir das „Gelernt = Gewonnen“.
+Allerdings sprechen seriöse CRO-Fachleute keine Erfolgsgarantien aus. Trotz der besten Vorbereitung kann es passieren, dass eine Maßnahme sich negativ auf die Conversion Rate auswirkt. Daraus gilt es zu lernen — auch das gehört zum wissenschaftlich-experimentellen Charakter von Conversion-Rate-Optimierung. Bei From Scratch nennen wir das „**Gelernt = Gewonnen**“.
 
-SEO ist langfristiger angelegt, birgt dafür aber weniger Risiken. Wir empfehlen grundsätzlich eine Perspektive von 6-12 Monaten, damit sich SEO-Maßnahmen nachhaltig auswirken.
+==SEO ist langfristiger angelegt, birgt dafür aber weniger Risiken. Wir empfehlen grundsätzlich eine Perspektive von 6-12 Monaten, damit sich SEO-Maßnahmen nachhaltig auswirken.==
 
 ## So wirken SEO und CRO auf ethische Weise zusammen
 
@@ -87,7 +87,8 @@ Unsere ehemalige From Scratch Expertin für Lektorat Nadine Stelzer vermisst in 
 
 > Durch die Orientierung an zu vielen Stimmen fehlt die eigene, was die Ansprache mechanisch macht und ihr die Menschlichkeit nimmt. Oft sind es die Angst vor verlorenen Chancen und Verurteilung, das mangelnde Vertrauen in die eigene Sprache, die zu diesem Ergebnis führen. Letztlich wird niemand erreicht, Texte müssen neu überdacht, geplant und geschrieben werden.
 
-Dem beugen SEO und Conversion-Rate-Optimierung durch Recherche vor. Wenn wir genau verstehen, an wessen Stimme wir uns orientieren, können wir unsere Empathie anzapfen und authentisch schreiben. Zentraler Baustein: In welcher Phase der Customer Journey ist die Persona, für die wir Inhalte optimieren? Dabei hilft beispielsweise das [[Start with Who – Marketing als Beziehungspflege|Modell der 5 Bewusstseinsstufen aus Kapitel 2.3]].
+Dem beugen SEO und Conversion-Rate-Optimierung durch Recherche vor. Wenn wir genau verstehen, an wessen Stimme wir uns orientieren, können wir unsere Empathie anzapfen und authentisch schreiben. 
+==Zentraler Baustein: In welcher Phase der Customer Journey ist die Persona, für die wir Inhalte optimieren?== Dabei hilft beispielsweise das [[Start with Who – Marketing als Beziehungspflege|Modell der 5 Bewusstseinsstufen aus Kapitel 2.3]].
 
 Ein weiteres nützliches Denk-Tool ist die Einteilung in Erfahrungsstufen, zum Beispiel „Neulinge“, „Fortgeschrittene“ und „Profis“.
 
