@@ -10,7 +10,7 @@ date: 2024-11-28
 
 Ganz klar: Das gute Leben sieht für die meisten Marketing-Leute anders aus. Große Plattformen wie Google stimmen zu und strafen seit Jahren solche „Black-Hat-Techniken“ ab.
 
-Seriöse SEO und CRO hingegen sind ethisch meistens unbedenklich. Vor allem, wenn sie strategisch eingebettet und von [[Praktische Integrität – Grundlage für ethisches Marketing |praktischer Integrität]] Integrität flankiert sind.
+Seriöse SEO und CRO hingegen sind ethisch meistens unbedenklich. Vor allem, wenn sie strategisch eingebettet und von [[Praktische Integrität – Grundlage für ethisches Marketing|praktischer Integrität]] Integrität flankiert sind.
 
 ## Worin unterscheiden sich SEO und Conversion-Rate-Optimierung?
 
@@ -37,7 +37,7 @@ Dafür beschäftigt sich SEO weniger mit Fragen wie:
 - Welcher Buttontext bekommt die meisten Klicks?
 - Wie muss das Angebot aussehen, damit mehr Menschen „Ja“ sagen?
 
-Das spiegelt sich auch in manchen Kennzahlen wieder, die in SEO und CRO genutzt werden. Aus der folgenden [Liste](https://laurafilz.de/was-ist-seo/) der From Scratch SEO-Expertin Laura Filz ist nur die Verweildauer vs. Bounce Rate (Absprungrate) CRO-relevant. CTR (Klickrate) ist zwar ebenfalls ein kritischer Wert, aber im Kontext von E-Mails oder Mikro-Conversions auf der Website selbst:
+Das spiegelt sich auch in manchen Kennzahlen wieder, die in SEO und CRO genutzt werden. Aus der folgenden [Liste](https://laurafilz.de/was-ist-seo/) der SEO-Expertin Laura Filz ist nur die Verweildauer vs. Bounce Rate (Absprungrate) CRO-relevant. CTR (Klickrate) ist zwar ebenfalls ein kritischer Wert, aber im Kontext von E-Mails oder Mikro-Conversions auf der Website selbst:
 
 > Diese Zahlen verraten dir, ob du auf dem richtigen Weg bist:
 > 
@@ -162,3 +162,6 @@ Es ist nie zu spät, anzufangen und Erfolge einzufahren!
 > 
 > Legt zum Schluss fest, welcher nächste Schritt dein Unternehmen ins Umsetzen führt.
 
+## Wie soll's weitergehen?
+
+Stöbere in der [[Toolbox zu Kapitel 3]] oder springe zu Kapitel 4: [[Marketing für eine enkeltaugliche Welt]] – zum Thema Ökologie und Gesellschaft.

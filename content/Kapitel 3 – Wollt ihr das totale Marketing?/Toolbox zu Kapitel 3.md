@@ -8,7 +8,7 @@ date: 2024-11-28
 ---
 In diesem Kapitel haben wir die Rolle von Daten im Online-Marketing ethisch reflektiert. ==Die wichtigste Botschaft: Ethisches Online-Marketing nutzt Daten besonders smart.== 
 
-- [[Daten schützen & sich beim Marketing drauf stützen |Wir erheben nur, was wir brauchen]], und setzen auf Konsens. 
+- [[Daten schützen & sich beim Marketing drauf stützen|Wir erheben nur, was wir brauchen]], und setzen auf Konsens. 
 - [[Künstliche Intelligenz als Werkzeug im ethischen Marketing|Maschinelles Lernen]] kann uns bei der Analyse unterstützen – und Prozesse beschleunigen, wenn wir Inhalte erstellen. 
 - Im [[SEO und Conversion-Rate-Optimierung ethisch einsetzen|Beitrag zu SEO und Conversion-Rate-Optimierung]] haben wir auf konkrete Anwendungsfelder für datengestütztes Marketing geschaut. 
 
@@ -84,12 +84,12 @@ Datenschutzfreundliche Alternativen zu bekannten Software-Plattformen sind keine
 - Die Plattform [Plausible](https://plausible.io/) ermöglicht den Import eurer bestehenden Google-Analytics-Daten. Sie zeigt unter anderem Bounce-Rates an – nicht alle alternativen Analytics-Tools können das.
 - Auch bei [Fathom Analytics](https://usefathom.com/) könnt ihr Google-Analytics-Daten hochladen. Das Tool aus Kanada ist leicht zu bedienen, und europäischer Traffic wird automatisch durch Europäische Infrastruktur geleitet.
 - [Simple Analytics](https://www.simpleanalytics.com/de) bietet eine (maschinell übersetzte) deutschsprachige Fassung an. Die Firma sitzt in der EU, Google-Analytics-Daten lassen sich importieren und es gibt eine Smartphone-Version des Dashboards.
-- Bei [Cabin Analytics](https://withcabin.com/) kommt Privatsphäre zuerst. Dieses Tool trackt außerdem den CO2-Fußabdruck eurer Website. Allerdings ist es derzeit nicht möglich, historische Daten aus Google Analytics zu importieren (Stand Januar 2025).
+- Bei [Cabin Analytics](https://withcabin.com/) kommt Privatsphäre zuerst. Dieses Tool trackt außerdem den CO₂-Fußabdruck eurer Website. Allerdings ist es derzeit nicht möglich, historische Daten aus Google Analytics zu importieren (Stand Januar 2025).
 
 #### Speziell fürs E-Mail-Marketing
 
 - Gute Erfahrungen haben wir mit dem Anbieter [MailerLite](https://www.mailerlite.com/) gemacht, dessen Server sich in der EU befinden. 
-- [Brevo](https://www.brevo.com/) (ehemals Sendinblue) sitzt in Paris und bietet neben E-Mail-Marketing auch Chat und Sales-CRM an. Hier beeindruckt uns besonders das Bemühen um einen kleineren CO2-Fußabdruck.
+- [Brevo](https://www.brevo.com/) (ehemals Sendinblue) sitzt in Paris und bietet neben E-Mail-Marketing auch Chat und Sales-CRM an. Hier beeindruckt uns besonders das Bemühen um einen kleineren CO₂-Fußabdruck.
 - Beim E-Mail-Marketing bieten sich vor allem A/B-Tests an, um euren Erfolg auf ethische Weise datengestützt zu optimieren. Auf der britischen Website [Zettasphere](https://www.zettasphere.com/abcalculator/) steht ein kostenloser Statistik-Rechner zur Verfügung, mit dem ihr in Sekundenschnelle die nötige **Stichprobengröße für den nächsten A/B-Test** berechnet.
 
 #### Nicht trackende Umfragen- und Termintools

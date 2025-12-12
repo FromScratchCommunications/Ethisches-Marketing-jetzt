@@ -96,7 +96,7 @@ Um das herauszufinden, nutzt ethisches Marketing vor allem wissenschaftliche Stu
 
 Für die Analyse deiner Einsichten bieten sich verschiedene Modelle an. Eines der nützlichsten stammt von Eugene Schwartz, dem Autor des legendären Werbe-Klassikers [Breakthrough Advertising](https://breakthroughadvertisingbook.com) von 1966. Sein Modell der fünf Bewusstseinsstufen zeigt, welche Entwicklung stattfinden muss, damit ein Mensch kauft bzw. konvertiert: ^cdd963
 
-<img class="image-c3dd440 cc-img" src="https://from-scratch.net/wp-content/uploads/2024/08/5-Bewusstseinsstufen.svg" height="600" width="600" srcset="https://from-scratch.net/wp-content/uploads/2024/08/5-Bewusstseinsstufen.svg 600w, https://from-scratch.net/wp-content/uploads/2024/08/5-Bewusstseinsstufen-300x300.svg 300w, https://from-scratch.net/wp-content/uploads/2024/08/5-Bewusstseinsstufen-150x150.svg 150w" sizes="(max-width: 600px) 100vw, 600px" alt="Darstellung der 5 Bewusstseinsstufen von Eugene Schwartz als konzentrische Kreise. Stufe 1, größter Kreis und damit die meisten Menschen: Unbewusst. Stufe 2: Problem erkannt. Stufe 3: Lösung erkannt. Stufe 4: Produkt erkannt. Stufe 5, kleinster Kreis und somit die wenigsten Menschen: Alles klar." data-cc-comp="component-ccd3a4e">
+<img class="image-c3dd440 cc-img" src="https://from-scratch.net/wp-content/uploads/2025/12/SEO-vs-Conversion-Copywriting-Bewusstseinsstufen-Eugene-Schwartz.webp" height="600" width="600" srcset="https://from-scratch.net/wp-content/uploads/2025/12/SEO-vs-Conversion-Copywriting-Bewusstseinsstufen-Eugene-Schwartz.webp 600w, https://from-scratch.net/wp-content/uploads/2025/12/SEO-vs-Conversion-Copywriting-Bewusstseinsstufen-Eugene-Schwartz-300.webp 300w, https://from-scratch.net/wp-content/uploads/2025/12/SEO-vs-Conversion-Copywriting-Bewusstseinsstufen-Eugene-Schwartz-150.webp 150w" sizes="(max-width: 600px) 100vw, 600px" alt="Darstellung der 5 Bewusstseinsstufen von Eugene Schwartz: Stufe 1, die meisten Menschen: Unbewusst. Stufe 2: Problem erkannt. Stufe 3: Lösung erkannt. Stufe 4: Produkt bekannt. Stufe 5, die wenigsten Menschen: Alles klar." data-cc-comp="component-ccd3a4e">
 
 >[!example]- Beispiel: Arbeit mit den Bewusstseinsstufen
 >
@@ -131,4 +131,4 @@ In seinem Blogartikel [Copywriting Basics: So schraubst du die Conversions nach 
 
 ## Wie soll's weitergehen?
 
-[[„Wollt ihr das totale Marketing?“|Schützt beim Marketing die Privatsphäre eures Publikums]] oder stöbere direkt in der [[Toolbox zu Kapitel 2]].
+[[Reduziert Barrieren, zieht mehr Menschen an |Finde heraus, wie euer Unternehmen Barrieren reduzieren kann]] oder stöbere direkt in der [[Toolbox zu Kapitel 2]].

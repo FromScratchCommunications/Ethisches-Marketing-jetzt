@@ -5,7 +5,7 @@ function ImageTitle({ displayClass }: QuartzComponentProps) {
   return (
 <div class={classNames(displayClass, "img-title")}>
   <a href={"/"}>
-    <img alt="Startseite Ethisches Marketing Jetzt" src="https://from-scratch.net/wp-content/uploads/2024/03/ethisches_marketing_jetzt_-start.svg" />
+    <img alt="Startseite Ethisches Marketing Jetzt" src="https://from-scratch.net/wp-content/uploads/2025/12/ethisches-marketing-jetzt-start.svg" />
   </a>
 </div>
 )

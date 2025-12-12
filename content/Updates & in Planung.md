@@ -2,9 +2,9 @@
 title: Updates & in Planung
 draft: false
 enableToc: false
-tags: 
+tags:
 description: „Ethisches Marketing Jetzt“ ist für immer „Work in Progress“, denn wir lernen nie aus. Finde heraus, wie du über neue Inhalte auf dem Laufenden bleibst.
-date: 2024-03-11
+date: 2025-12-12
 ---
 
 ## Dieses Projekt ist für immer „Work in Progress“, denn wir lernen nie aus.
@@ -17,15 +17,7 @@ Du kannst jederzeit entscheiden, ob und welche Arten von E-Mails du bekommen wil
 
 ***
 
-## Folgende Kapitel sind derzeit noch in Arbeit:
-
-### „Wir müssen bis morgen reichen“ – Marketing für eine enkeltaugliche Welt
-
-- Optimiert den ökologischen Fußabdruck eures Online-Marketings
-- Helft Menschen bei nachhaltigen Entscheidungen
-- Lasst uns gemeinsam die Branche transformieren
-- Toolbox zu Kapitel 4
-
+## Folgende Inhalte sind derzeit noch in Arbeit:
 
 Ethisches Marketing Bingo
 
@@ -55,4 +47,4 @@ Ethisches Marketing Bingo
 - [ ] Dark Mode für WebsiteCarbon Badge im Footer einrichten
 - [ ] Explorer-Navigation auch bei Mobilansicht und kleineren Laptop-Bildschirmen bis 13 Zoll anzeigen
 
-Stand: November 2024
+Stand: Dezember 2025

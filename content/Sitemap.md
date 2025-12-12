@@ -57,3 +57,61 @@ date: 2024-03-11
 [[SEO und Conversion-Rate-Optimierung ethisch einsetzen]]
 
 [[Toolbox zu Kapitel 3]]
+
+## [[Marketing für eine enkeltaugliche Welt]]
+
+[[Ökologischen Fußabdruck des Online-Marketings reduzieren]]
+
+[[Conversion-Optimierung oder Konsumverzicht? Menschen bei nachhaltigen Entscheidungen helfen]]
+
+[[Gemeinsam die Branche transformieren]]
+
+[[Toolbox zu Kapitel 4]]
+
+## Glossar
+
+[[CO₂e]]
+
+[[Conversion]]
+
+[[Frames]]
+
+[[FUD]]
+
+[[geplante Obsoleszenz]]
+
+[[Greenwashing]]
+
+[[Intention Stack]]
+
+[[Manipulation]]
+
+[[Marketing]]
+
+[[Mission]]
+
+[[Moral Distress]]
+
+[[Produkt]]
+
+[[Sales]]
+
+[[SHIFT]]
+
+[[Strategie]]
+
+[[Suffizienz]]
+
+[[Taktik]]
+
+[[Transparenz-Prinzip]]
+
+[[Überwachungskapitalismus]]
+
+[[Value Proposition]]
+
+[[Vision]]
+
+[[Werte und Prinzipien]]
+
+[[Ziele]]

@@ -34,6 +34,6 @@ Ganz klar: Das klappt nur, wenn ihr euer Publikum gut einschätzen könnt. Desha
 ### Nach dem Lesen dieses Kapitels kannst du
 
 - [[Ethisches Marketing, ein Widerspruch in sich? |zwischen effektivem Marketing und Manipulation unterscheiden]] und euer eigenes Marketing entsprechend einordnen
-- [[Start with Who – Marketing als Beziehungspflege |Publikumsforschung nutzen, um Kund_innen respektvoll anzuziehen und dauerhaft zu binden]] – ohne sie zum Kauf drängen zu müssen
-- [[Reduziert Barrieren, zieht mehr Menschen an |sprachliche, mentale, technische und designbedingte Barrieren vermeiden]] und so euer Marketing inklusiver gestalten
+- [[Start with Who – Marketing als Beziehungspflege|Publikumsforschung nutzen, um Kund_innen respektvoll anzuziehen und dauerhaft zu binden]] – ohne sie zum Kauf drängen zu müssen
+- [[Reduziert Barrieren, zieht mehr Menschen an|sprachliche, mentale, technische und designbedingte Barrieren vermeiden]] und so euer Marketing inklusiver gestalten
 - [[Effektive, ethische Buttons (Calls-to-Action) – der ultimative Leitfaden |eure Calls-to-Action so effektiv wie ethisch einsetzen.]]

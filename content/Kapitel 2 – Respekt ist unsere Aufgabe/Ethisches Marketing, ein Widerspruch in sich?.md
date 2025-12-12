@@ -84,4 +84,4 @@ Wenn du dir nicht 100 % sicher bist, ob eine Kampagne, ein Website-Text oder ein
 
 ## Wie soll's weitergehen?
 
-[[Start with Who – Marketing als Beziehungspflege |Ziehe Kund_innen aufgrund von Publikumsforschung respektvoll an]] oder stöbere direkt in der [[Toolbox zu Kapitel 2]].
+[[Start with Who – Marketing als Beziehungspflege|Ziehe Kund_innen aufgrund von Publikumsforschung respektvoll an]] oder stöbere direkt in der [[Toolbox zu Kapitel 2]].

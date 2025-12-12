@@ -13,8 +13,8 @@ Daraus leiten sich Prinzipien wie Respekt, das Vermeiden von Manipulation und Ba
 ## Die wichtigsten Learnings dieses Kapitels im Überblick
 
 - [[Ethisches Marketing, ein Widerspruch in sich? |Marketing ohne Manipulation ist möglich!]] [[Manipulation]] zwingt Menschen unseren Willen auf. Stattdessen beeinflusst ethisches Marketing die Meinung, Gedanken und Gefühle von Menschen transparent und ehrlich. Ihre Entscheidungsfreiheit bleibt bestehen.
-- [[Start with Who – Marketing als Beziehungspflege |Ethisches Marketing ist beziehungsorientiert und menschenzentriert.]] Um dem Publikum gerecht zu werden, nutzen wir quantitative und vor allem qualitative Recherchemethoden. Die Zustimmung zur Datenerfassung ermöglicht Einsichten in komplexe Zusammenhänge.
-- [[Reduziert Barrieren, zieht mehr Menschen an |Barrierefreiheit ist ein intersektionales Thema, das weit über die Inklusion Behinderter hinausgeht.]] Dennoch werden die Bedürfnisse Behinderter im Marketing nach wie vor am wenigsten berücksichtigt. Eine Reihe von Gesetzen soll das endlich ändern.
+- [[Start with Who – Marketing als Beziehungspflege|Ethisches Marketing ist beziehungsorientiert und menschenzentriert.]] Um dem Publikum gerecht zu werden, nutzen wir quantitative und vor allem qualitative Recherchemethoden. Die Zustimmung zur Datenerfassung ermöglicht Einsichten in komplexe Zusammenhänge.
+- [[Reduziert Barrieren, zieht mehr Menschen an|Barrierefreiheit ist ein intersektionales Thema, das weit über die Inklusion Behinderter hinausgeht.]] Dennoch werden die Bedürfnisse Behinderter im Marketing nach wie vor am wenigsten berücksichtigt. Eine Reihe von Gesetzen soll das endlich ändern.
 	- **Es gibt sechs verschiedene Formen von Barrieren.** Viele lassen sich nur reduzieren und vermeiden, wenn das ganze Unternehmen dazu beiträgt.
 - [[Effektive, ethische Buttons (Calls-to-Action) – der ultimative Leitfaden |Calls to Action müssen in erster Linie klar sein.]] Es gilt, irreführendes Design zu vermeiden und Menschen entlang ihrer Customer Journey relevante Handlungsoptionen zu eröffnen.
 

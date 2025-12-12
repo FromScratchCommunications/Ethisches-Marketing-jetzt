@@ -37,9 +37,9 @@ Solche Profile ermöglichen die verhaltensökonomische Steuerung. Unser Entschei
 
 Damit euer Unternehmen eurem Publikum auf Augenhöhe begegnet und nicht feindlich. Du reflektierst euren Umgang mit Marketingdaten und erarbeitest erste Ideen für eine Marketing-Datenstrategie in deinem Unternehmen.
 
-### – Nach dem Lesen dieses Kapitels kannst du:
+### Nach dem Lesen dieses Kapitels kannst du:
 
-- [[Daten schützen & sich beim Marketing drauf stützen |evidenzbasiertes Marketing anwenden]], ohne das Menschenrecht auf Privatsphäre zu gefährden
+- [[Daten schützen & sich beim Marketing drauf stützen|evidenzbasiertes Marketing anwenden]], ohne das Menschenrecht auf Privatsphäre zu gefährden
 - [[Künstliche Intelligenz als Werkzeug im ethischen Marketing|Grenzen und Chancen von KI im Marketing ausloten]]
 - [[SEO und Conversion-Rate-Optimierung ethisch einsetzen|an den Beispielen SEO und Conversion-Rate-Optimierung nachvollziehen, wie ethisches Marketing praktisch funktioniert.]]
 - [[Toolbox zu Kapitel 3 |Tools auswählen, die euch helfen, die Privatsphäre eurer Kundschaft zu schützen]].

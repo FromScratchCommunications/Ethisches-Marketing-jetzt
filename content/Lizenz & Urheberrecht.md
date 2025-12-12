@@ -6,7 +6,7 @@ tags:
 description: „Ethisches Marketing Jetzt“ unterliegt der offenen Lizenz CC BY-NC-SA. Wir freuen uns, wenn du uns Bescheid sagst, wie du die Inhalte remixt oder verändert hast!
 date: 2024-03-11
 ---
-(CC) From Scratch Communications 2024 
+(CC) From Scratch Communications 2025
 
 Dieses Werk unterliegt der offenen Lizenz [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 

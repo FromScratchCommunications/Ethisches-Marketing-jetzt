@@ -22,7 +22,7 @@ Wenn du uns persönliche Daten übermittelst, versicherst du uns zugleich, **da
 
 Es ist sehr wichtig, dass die Informationen, die wir über dich besitzen, korrekt und auf dem neuesten Stand sind. **Wenn sich deine Informationen ändern, gib uns bitte Bescheid**, indem du uns eine E-Mail an [Datenschutz@from-scratch.net](mailto:Datenschutz@from-scratch.net) schickst. 
 
-Wir haben diese Datenschutzerklärung zuletzt am 20. März 2024 aktualisiert.
+Wir haben diese Datenschutzerklärung zuletzt am 4. Dezember 2025 aktualisiert.
 
 ### – Kontakt
 
@@ -32,9 +32,9 @@ Sabine Harnau und Holger Schueler
 
 From Scratch Communications
 
-De Oeverlanden 211
+Haparandaweg 904
 
-1441 RE Purmerend
+1013 BD Amsterdam
 
 Niederlande
 
@@ -201,7 +201,7 @@ Die Zugriffsmöglichkeit liegt ausschließlich bei YouTube. [Die Google LLC ist
 
 #### Filesharing und Cloud
 
-Wenn wir Dokumente oder andere Dateien mit dir teilen, tun wir dies normalerweise über Dropbox. [Hier gelangst du zur Dropbox-Datenschutzerklärung](https://www.dropbox.com/privacy).
+Wenn wir Dokumente oder andere Dateien mit dir teilen, tun wir dies normalerweise über Dropbox. [Hier gelangst du zur Dropbox-Datenschutzerklärung](https://www.dropbox.com/de/privacy).
 
 Es ist möglich, dass wir in Zukunft auch Notion-Websites oder -Vorlagen über diese Website anbieten. Notion ist eine US-amerikanische Softwarefirma mit Sitz in San Francisco, USA. In Notion erstellen wir Inhalte, verwalten unser CRM und dokumentieren Design-Systeme, Recherche-Ergebnisse usw. Wenn du diese Angebote nutzt, gilt neben unserer auch die [Datenschutzerklärung von Notion](https://www.notion.so/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac).
 

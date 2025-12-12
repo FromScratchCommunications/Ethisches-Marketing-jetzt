@@ -76,4 +76,4 @@ Doch bekanntermaßen ist Perfektionismus der größte Feind des Fortschritts. Da
 
 - Diese Website erreicht im Klima-Schnelltest von [°Cleaner Web](https://klimatest.cleaner-web.com/) die Bestnote A+ im Digital Carbon Rating. Derzeit können wir die Seite leider nicht grün hosten – hier sind wir von GitHub abhängig. Auch den Rendering-Prozess können wir nur minimal optimieren, doch Quartz verbessert sich ständig.
 - Sie erreicht in [Lighthouse](https://developers.google.com/web/tools/lighthouse/) einen Score von 97/100/100/100 (Performance/Accessibility/Best Practices/SEO).  
-- Jeder Homepage-Aufruf stößt ca. 0,05g CO2 aus (99% weniger als Standardseiten). [Zum WebsiteCarbon-Testergebnis](https://www.websitecarbon.com/website/ethischesmarketing-jetzt/)
+- Jeder Homepage-Aufruf stößt ca. 0,05g CO₂ aus (99% weniger als Standardseiten). [Zum WebsiteCarbon-Testergebnis](https://www.websitecarbon.com/website/ethischesmarketing-jetzt/)

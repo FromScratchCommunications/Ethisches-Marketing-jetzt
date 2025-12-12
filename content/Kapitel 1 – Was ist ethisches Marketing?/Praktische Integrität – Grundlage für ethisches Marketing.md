@@ -152,4 +152,4 @@ Darüber hinaus schafft ihr eine stimmige Customer Experience – egal ob jemand
 
 ## Wie soll's weitergehen?
 
-Kapitel 2 ist noch in Arbeit. [Melde dich hier für Updates an](https://subscribepage.io/E2vu4J) – dann informieren wir dich, sobald neue Inhalte auf dich warten. Oder stöbere inzwischen in der [[Toolbox zu Kapitel 1]].
+Stöbere in der [[Toolbox zu Kapitel 1]] oder springe zu Kapitel 2: [[Respekt ist unsere Aufgabe]] – zum Thema Barrierefreiheit und Beziehungspflege.
