@@ -13,7 +13,6 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <hr />
         <p>
           Ein Projekt von
           <a href="https://from-scratch.net"> From Scratch Communications</a> (CC) {year}
