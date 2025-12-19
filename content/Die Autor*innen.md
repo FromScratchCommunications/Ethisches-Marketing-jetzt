@@ -2,9 +2,9 @@
 title: Die Autor*innen
 draft: false
 enableToc: false
-tags: 
+tags:
 description: Erfahre mehr über Sabine Harnau und Holger Schueler, die Autor*innen von „Ethisches Marketing JETZT“.
-date: 2024-03-11
+date: 2025-12-19
 ---
 *Lern uns kennen:*
 ## Sabine Harnau (keine Pronomen)

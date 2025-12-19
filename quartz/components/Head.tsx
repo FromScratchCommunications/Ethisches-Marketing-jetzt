@@ -28,6 +28,11 @@ export default (() => {
     const iconPath = joinSegments(baseDir, "static/icon.png")
     const ogImagePath = `https://${cfg.baseUrl}/static/emj-preview-image.png`
 
+    // OG image settings - using default static image
+    const ogImageDefaultPath = ogImagePath
+    const usesCustomOgImage = false  // Set to false to use static OG image
+    const socialUrl = `https://${cfg.baseUrl}/${fileData.slug}`
+
     return (
       <head>
         <title>{title}</title>

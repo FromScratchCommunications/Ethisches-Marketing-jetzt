@@ -258,7 +258,7 @@ Bevor wir dieses Thema abschließen, müssen wir noch auf eine verwandte [[Takti
 Diese unethische Praxis kommt besonders häufig in Cookie-Bannern vor.
 
 > [!example]- **Beispiel: Irreführendes Design im Cookie-Banner**
-> Im folgenden Beispiel ([Screenshot](https://from-scratch.net/wp-content/uploads/2025/12/ethisches-marketing-jetzt-thomann-cookie-banner-2023-05-15.jpeg)) von der [Thomann](https://www.thomann.de/intl/index.html)-Website erklärt der Cookie-Hinweis:
+> Im folgenden Beispiel von der [Thomann](https://www.thomann.de/intl/index.html)-Website erklärt der Cookie-Hinweis:
 > 
 > „Mit Liebe serviert! Mit unseren Cookies möchten wir Ihnen ein fluffiges Einkaufserlebnis mit allem was dazugehört bieten. Dazu zählen zum Beispiel passende Angebote und das Merken von Einstellungen. Wenn das für Sie okay ist, stimmen Sie der Nutzung von Cookies für Präferenzen, Statistiken und Marketing einfach durch einen Klick auf ‘Geht klar‘ zu (Link: alle anzeigen).“
 > 

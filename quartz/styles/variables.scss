@@ -41,3 +41,16 @@ $desktopGrid: (
       "grid-sidebar-left grid-center grid-sidebar-right"\
       "grid-sidebar-left grid-footer grid-sidebar-right"',
 );
+
+// Breakpoint map used by base.scss
+$breakpoints: (
+  mobile: $mobileBreakpoint,
+  tablet: $tabletBreakpoint,
+  desktop: $tabletBreakpoint // or set a distinct desktopBreakpoint if you have one
+);
+
+// Media query strings to use with @use in component styles.
+// These are the variables your components were referencing as $mobile / $desktop.
+$mobile: "(max-width: #{$mobileBreakpoint})";
+$tablet: "(min-width: #{$mobileBreakpoint}) and (max-width: #{$tabletBreakpoint})";
+$desktop: "(min-width: #{$tabletBreakpoint})";

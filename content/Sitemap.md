@@ -2,9 +2,9 @@
 title: Sitemap
 draft: false
 enableToc: false
-tags: 
+tags:
 description: Eine Übersicht aller Seiten auf „Ethisches Marketing Jetzt“
-date: 2024-03-11
+date: 2025-12-19
 ---
 ## [[index|Homepage]]
 

@@ -2,9 +2,9 @@
 title: Impressum & Datenschutz
 draft: false
 enableToc: true
-tags: 
+tags:
 description: "Wer wir sind und was wir mit deinen Daten machen. Spoiler Alert: Wir erheben so wenige Daten wie möglich."
-date: 2024-03-11
+date: 2025-12-19
 ---
 ## Impressum
 
@@ -22,7 +22,7 @@ Wenn du uns persönliche Daten übermittelst, versicherst du uns zugleich, **da
 
 Es ist sehr wichtig, dass die Informationen, die wir über dich besitzen, korrekt und auf dem neuesten Stand sind. **Wenn sich deine Informationen ändern, gib uns bitte Bescheid**, indem du uns eine E-Mail an [Datenschutz@from-scratch.net](mailto:Datenschutz@from-scratch.net) schickst. 
 
-Wir haben diese Datenschutzerklärung zuletzt am 4. Dezember 2025 aktualisiert.
+Wir haben diese Datenschutzerklärung zuletzt am 19. Dezember 2025 aktualisiert.
 
 ### – Kontakt
 
@@ -30,7 +30,7 @@ Wir haben diese Datenschutzerklärung zuletzt am 4. Dezember 2025 aktualisiert.
 
 Sabine Harnau und Holger Schueler
 
-From Scratch Communications
+From Scratch Communications B.V.
 
 Haparandaweg 904
 
@@ -42,11 +42,11 @@ Telefon: +31 (0) 645820123
 
 E-Mail: Datenschutz@from-scratch.net
 
-Handelsregister: 89995988
+Handelsregister: 89134109
 
 Registergericht: Amsterdam
 
-**Umsatzsteuer-ID** — niederländische „BTW-nummer”: NL865178434B01
+**Umsatzsteuer-ID** — niederländische „BTW-nummer”: NL864888983B01
 
 ### – Verbraucherstreitbeilegung / Universalschlichtungsstelle
 
@@ -111,11 +111,11 @@ Zudem informieren wir dich über die Fremdkomponenten, die wir zur Optimierung u
 
 Verantwortliche Anbieterin dieses Internetauftritts im datenschutzrechtlichen Sinne ist:
 
-From Scratch Communications
+From Scratch Communications B.V.
 
-De Oeverlanden 211
+Haparandaweg 904
 
-1441 RE Purmerend
+1013 BD Amsterdam
 
 Niederlande
 
@@ -169,7 +169,7 @@ Diese so erhobenen Daten werden vorübergehend gespeichert, allerdings getrennt 
 
 Zur Analyse der Nutzung unserer Website verwenden wir das Privatsphäre-freundliche Tool Plausible. Es setzt keine Datenkraken ein. [Die Plausible-Datenschutzerklärung kannst du hier nachlesen.](https://plausible.io/privacy)
 
-Wenn du uns eine E-Mail schickst, werden deine Daten auf den Datenzentren des E-Mail-Hostingproviders Fastmail gespeichert. Die Firma arbeitet nach dem “Privacy-First”-Prinzip. [Hier findest du die Fastmail-Datenschutzerklärung (auf Englisch).](https://www.fastmail.com/privacy/)
+Wenn du uns eine E-Mail schickst, werden deine Daten auf den Datenzentren des E-Mail-Hostingproviders Google gespeichert. [Hier findest du die Google-Datenschutzerklärung.](https://policies.google.com/privacy?hl=de)
 
 #### Cookies
 
@@ -204,9 +204,5 @@ Die Zugriffsmöglichkeit liegt ausschließlich bei YouTube. [Die Google LLC ist
 Wenn wir Dokumente oder andere Dateien mit dir teilen, tun wir dies normalerweise über Dropbox. [Hier gelangst du zur Dropbox-Datenschutzerklärung](https://www.dropbox.com/de/privacy).
 
 Es ist möglich, dass wir in Zukunft auch Notion-Websites oder -Vorlagen über diese Website anbieten. Notion ist eine US-amerikanische Softwarefirma mit Sitz in San Francisco, USA. In Notion erstellen wir Inhalte, verwalten unser CRM und dokumentieren Design-Systeme, Recherche-Ergebnisse usw. Wenn du diese Angebote nutzt, gilt neben unserer auch die [Datenschutzerklärung von Notion](https://www.notion.so/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac).
-
-#### Editierbare Checklisten
-
-In manchen Aufgaben stellen wir Links zu editierbaren Checklisten zur Verfügung. Diese wurden mit dem Tool TinyList.app erstellt. Bitte beachte, dass andere Nutzende deine Angaben in der Checkliste sehen können (aber es werden keine persönlichen Daten gespeichert). [Zur Datenschutzerklärung von TinyList.app.](https://tinylist.app/privacy)
 
 (Mit Dank an die Anwaltskanzlei Weiß & Partner)

@@ -14,6 +14,4 @@ In der Praxis kann FUD so aussehen:
 
 ![[Conversion-Optimierung oder Konsumverzicht? Menschen bei nachhaltigen Entscheidungen helfen#^a0491b]]
 
-FUD ist eine Form der Desinformation. Hier findest du mehr Informationen zu Desinformation im Marketing:
-
-![[Conversion-Optimierung oder Konsumverzicht? Menschen bei nachhaltigen Entscheidungen helfen#^e346c7]]
+FUD ist eine Form der Desinformation. [[Conversion-Optimierung oder Konsumverzicht? Menschen bei nachhaltigen Entscheidungen helfen#^e346c7|Hier findest du mehr Informationen zu Desinformation im Marketing.]]

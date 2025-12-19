@@ -4,7 +4,7 @@ draft: false
 enableToc: false
 tags:
 description: "Marketing fürs Gemeinwohl: Reduziert Emissionen, balanciert Conversion und Konsum, stärkt demokratische, menschenfreundliche Kommunikation. Praxisnah und verantwortungsvoll."
-date: 2025-02-19
+date: 2025-12-19
 ---
 Seit dem späten 19. Jahrhundert ist Marketing Quelle von Geschichten, Überzeugungen und Verhaltensweisen, die Überkonsum, Gesundheitsprobleme und die Zerstörung der Umwelt verursachen.
 

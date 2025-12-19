@@ -21,6 +21,7 @@ import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import ImageTitle from "./ImageTitle"
+import Flex from "./Flex"
 
 export {
   ArticleTitle,
@@ -45,5 +46,6 @@ export {
   RecentNotes,
   NotFound,
   Breadcrumbs,
-  ImageTitle
+  ImageTitle,
+  Flex
 }

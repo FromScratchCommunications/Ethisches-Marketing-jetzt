@@ -40,7 +40,7 @@ Ohne diese Klarheit bleibt verschwommen, wie Integrität für euer Unternehmen k
 
 ### Zum Beitrag: [[„Es geht nicht um den erhobenen Zeigefinger“]]
 
-Komplexe Themen wie Marketing-Ethik sind nie letztgültig geklärt. Außerdem docken sie an viele persönliche und professionelle Meinungen, Erfahrungen und Praktiken an. Um das angemessen zu verarbeiten, empfehlen wir dir, Notizen zu machen. Dafür gibt es mittlerweile eine Menge toller **=Denk-Tools** (Tools of Thought). 
+Komplexe Themen wie Marketing-Ethik sind nie letztgültig geklärt. Außerdem docken sie an viele persönliche und professionelle Meinungen, Erfahrungen und Praktiken an. Um das angemessen zu verarbeiten, empfehlen wir dir, Notizen zu machen. Dafür gibt es mittlerweile eine Menge toller **Denk-Tools** (Tools of Thought). 
 
 Unsere Favoriten:
 
